@@ -5,6 +5,7 @@ Curso inteligencia artificial
 ENUNCIADO
 
 Dado un número entre 0.0001 y 0.9999 obtener la fracción equivalente irreducible.
+
 SOLUCIÓN DEL PROBLEMA
 
 Input: número decimal de hasta 4 decimales máximo
