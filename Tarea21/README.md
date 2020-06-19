@@ -1,4 +1,5 @@
 TAREA 21
+
 Curso inteligencia artificial
 
 ENUNCIADO
