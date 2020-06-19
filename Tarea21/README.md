@@ -1,4 +1,4 @@
-# theegg_ai
+TAREA 21
 Curso inteligencia artificial
 
 ENUNCIADO
@@ -20,8 +20,8 @@ El lenguaje de programación que he utilizado es Python ya que parto de cero y p
 
 El programa se divide en 3 partes:
 
-En la primera se pide que se introduzca el número en consola y se establece mediante una condicional del tipo if que indique que es incorrecto en caso que no se introduzca dentro del rango establecido.
+En la primera se pide que se introduzca el número decimal en consola y se establece mediante una condicional del tipo "if" que indique que es incorrecto en caso que no se introduzca dentro del rango establecido.
 
-En la segunda parte se establecen las variables numerador y denominador que formarán parte de la fracción inicial equivalente al número introducido, es decir, numerador= 10000*numero introducido y denominador=10000. 
+En la segunda parte se establecen las variables numerador y denominador que formarán parte de la fracción inicial equivalente al número introducido, es decir, "numerador= 10000*num" y "denominador=10000". El numerador se redondea con la función round para que no se produzca un error por causa de la coma flotante.
 
-En la tercera parte el programa realiza un ciclo determinado for en el que se divide al numerador y denominador entre 2 elevado a i tomando la variable i  valores 4 y 0. En el ciclo en el que el numerador y denominador dan como resultado un número entero se ambos cogen ese valor con el cual se pasa al siguiente ciclo. El siguiente ciclo es equivalente al primero pero en vez de dividir entre 2 se divide entre 5 elevado a i tomando la variable i  valores 4 y 0. Cuando se obtiene un número entero en ambas divisiones los valores obtenidos para numerador y denominador forman la fracción irreducible.
+En la tercera parte el programa realiza un ciclo determinado "for" en el que se divide al numerador y denominador entre 2 elevado a i tomando la variable i  valores entre 4 y 0. En el ciclo en el que el numerador y denominador dan como resultado un número entero  ambos cogen ese valor con el cual se pasa al siguiente ciclo. El siguiente ciclo es equivalente al primero pero en vez de dividir entre 2 se divide entre 5 elevado a i tomando la variable i  valores entre 4 y 0. Cuando se obtiene un número entero en ambas divisiones los valores obtenidos para numerador y denominador forman la fracción irreducible.
