@@ -32,11 +32,11 @@ La solucion más evidente es la de una vez introducidos los datos de entrada seg
 
 2- Calcular todas las posibles combinaciones de las sumas de peso de las vacas.
 
-2- Discriminar las vacas cuya combinación de pesos está por encima del peso del remolque a utilizar 
+3- Discriminar las vacas cuya combinación de pesos está por encima del peso del remolque a utilizar 
 
-2- Calcular todas las posibles sumas de las producciones de las vacas que hayan entrado en el remolque
+4- Calcular todas las posibles sumas de las producciones de las vacas que hayan entrado en el remolque
 
-3- Hallar el máximo de todas las posibles sumas de producción de las vacas que entren en el remolque que será la producción máxima
+5- Hallar el máximo de todas las posibles sumas de producción de las vacas que entren en el remolque que será la producción máxima
 
 
 IMPLEMENTACIÓN EN PHYTON
