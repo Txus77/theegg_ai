@@ -1,4 +1,5 @@
-PROBLEMA
+# ALGORITMO DEL LECHERO
+## PROBLEMA
 
 Usted es un original empresario de Azkoitia, y tiene la brillante idea de abrir una tienda de la leche en la
 Plaza del pueblo. Como es una persona muy prudente, desea que la leche que venderá sea
@@ -22,7 +23,7 @@ Entrada: Lista de la producción de leche por vaca, en litros por día.
 
 Salida: Cantidad máxima de producción de leche se puede obtener
 
-SOLUCION
+## SOLUCION
 
 He utilizado Phyton 3.8 como lenguaje de programación
 
@@ -39,7 +40,7 @@ La solucion más evidente es la de una vez introducidos los datos de entrada seg
 5- Hallar el máximo de todas las posibles sumas de producción de las vacas que entren en el remolque que será la producción máxima
 
 
-IMPLEMENTACIÓN EN PHYTON
+### IMPLEMENTACIÓN EN PHYTON
 
 
 Divido la solución en varias partes:
@@ -50,6 +51,7 @@ Divido la solución en varias partes:
     
 2- Relaciono pesos y producción:
     Junto ambas variables en una lista (funicon zip) formada por tuplas de 2 elementos, primer elemento la producción y segundo el peso y los ordeno de mayor a menor producción.
+    
 3- De la lista anterior saco 2 listas una de producción y otra de pesos con el orden anterior (bucle determinado "for")
 
 4- combino los pesos, por un lado, y los volumenes, por otro, de todas las formas posibles y sumo las listas que genero lo que me genra sublistas con las posibles combinaciones
