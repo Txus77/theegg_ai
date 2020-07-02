@@ -1,12 +1,12 @@
-TAREA 21
+# TAREA 21
 
 Curso inteligencia artificial
 
-ENUNCIADO
+## ENUNCIADO
 
 Dado un número entre 0.0001 y 0.9999 obtener la fracción equivalente irreducible.
 
-SOLUCIÓN DEL PROBLEMA
+## SOLUCIÓN DEL PROBLEMA
 
 Input: número decimal de hasta 4 decimales máximo
 
@@ -16,7 +16,7 @@ El primer paso es transformar el número decimal en una fracción de 2 números 
 
 El siguiente paso es obtener la fracción irreducible y para ello debemos obtener el máximo común divisor de ambos números y dividir ambos por él. En este caso como el denominador es siempre 10000 y el numerador siempre será menor  que el denominador (ya que el número decimal a introducir siempre es menor que 1)  el máximo común divisor tiene que estar formado por el producto de 1* 2 * 5 elevado cada uno a un exponente que como máximo será 4 y como mínimo 0 ya que 10000=5*5*5*5*2*2*2*2. Entonces divido primero el numerador y al denominador por 2  a la máxima potencia (exponente entre 0 y 4) y si me da un número entero en ambos divido estos a su vez entre 5  a la máxima potencia (exponente entre 0 y 4). El numerador y denominador que obtenga serán los que formes la fracción irreducible
 
-SOLUCIÓN EN LENGUAJE DE PROGRAMACIÓN
+## SOLUCIÓN EN LENGUAJE DE PROGRAMACIÓN
 
 El lenguaje de programación que he utilizado es Python ya que parto de cero y parece que es el más sencillo para aprender programación. La versión de Python que he utilizado es la 3.8.
 
