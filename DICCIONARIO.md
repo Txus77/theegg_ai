@@ -199,5 +199,42 @@ https://www.youtube.com/watch?v=lnq_Te748-s
 **Bucles**: Son estructuras de control de flujo cuya misión es repetir líneas de código o bloques las veces que indiquemos o necesitemos.
 
 **Lenguaje de programación**: Lenguaje formal formado por símbolos, números, letras y reglas  mediante el cual se transmiten instrucciones a la máquina con el fin de realizar una tarea.
- 
+
+## Nivel 1 - Tarea 23:  Cifrado y descifrado con el solitario
+**Cifrado**: consiste en aplicar un algoritmo en el que los valores de entrada son los datos a cifrar y la clave, y el resultado es la información cifrada 
+
+Técnicas de cifrado: https://www.youtube.com/watch?v=xnClTLnFuOs
+
+**Algoritmo de cifrado simétrico**: Son los que utilizan la misma clave para cifrar y descifrar el mensaje. El proceso es el que sigue:
+
+1.- Información a encriptar
+
+2.- algoritmo (que es conocido) de cifrado con la clave
+
+3.- Información encriptada
+
+4.-algoritmo de descifrado (opuesto al de cifrado) con la misma clave
+
+5.- información descifrada
+
+https://www.youtube.com/watch?v=n04e6Zni4zA
+
+**Algoritmo de cifrado asimétrico**: Son los que utilizan 2 claves o llaves para cifrar y descifrar la información. Un llave pública y otra privada estando ambas asociadas. El proceso es el que sigue:
+
+1.- Información a cifrar
+
+2.- El emisor cifra la información con la llave pública del receptor del mensaje
+
+3. El receptor del mensaje descifra la información con su llave privada
+
+https://www.youtube.com/watch?v=iN5sGyx9Fhw
+
+**Funciones de programación**: son un conjunto de líneas de código agrupadas (bloque de código) que funcionan como una unidad realizando una tarea específica. Sirven para reutilizar código (cuando sea necesario o si es necesario)
+
+Funciones 1: https://www.youtube.com/watch?v=VY448UWAQ_0&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=5
+
+Funciones 2 (parámetros):
+
+https://www.youtube.com/watch?v=vawEHhV_HFA&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=6
+
 
