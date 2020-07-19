@@ -237,4 +237,44 @@ Funciones 2 (parámetros):
 
 https://www.youtube.com/watch?v=vawEHhV_HFA&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=6
 
+## Nivel 1 - Tarea 24:  Construye un simulador
 
+**convertidor-analógico-digital**: Es un dispositivo que se encarga de transformar las señales analógicas en señales digitales, es decir, convierte señales físicas continuas en señales discretas formadas por 0 y 1.
+
+Conversión analógica digital y viceversa
+
+https://www.youtube.com/watch?v=NMQB4OnKf2w
+
+Analogica o digital
+
+https://www.youtube.com/watch?v=JfSbLmgjR4o
+
+¿Cómo funciona la electrónica ANALÓGICA y la DIGITAL?
+
+https://www.youtube.com/watch?v=x4do0qN__Bk
+
+**Transistores-bipolares**: son unos dispositivos que permiten el paso de corriente entre dos puntos. Pueden funcionar regulando el paso de corriente o como commutadores que abren o cierran el paso de corriente. El transistor realiza sus funciones gracias a la aplicación de una pequeña cantidad de corriente que cuando funciona como regulador la cantidad de corriente que deja circular el proporcional a esta corriente aplicada.
+
+**Frecuencia de muestreo**: es la cantidad de intervalos de muestra de igual tamaño en la que se divide una onda física de forma que cuando mayor es la frecuencia más fiel a la realidad será. 
+
+*“La tasa o frecuencia de muestreo es el número de muestras por unidad de tiempo que se toman de una señal continua para producir una señal discreta, durante el proceso necesario para convertirla de analógica en digital. Como todas las frecuencias, generalmente se expresa en hercios (Hz, ciclos por segundo) o múltiplos suyos, como el kilohercio (kHz), aunque pueden utilizarse otras magnitudes.”*
+
+**Sistema-binario**: Es un sistema numérico que tiene sólo 2 dígitos, el 1 y el 0. En una cifra binaria, cada dígito tiene distinto valor dependiendo de la posición que ocupe. El valor de cada posición es el de una potencia de base 2, elevada a un exponente igual a la posición del dígito empezando las posiciones desde 0.
+
+sistemas numéricos: Binario, Decimal y Hexadecimal
+
+https://www.youtube.com/watch?v=g9-MRBBcvdg
+
+BINARIO. ¿Cómo pasar de decimal a binario y viceversa?
+
+https://www.youtube.com/watch?v=bScw3CNb_fM
+
+HEXADECIMAL
+
+https://www.youtube.com/watch?v=6Fq4Ah0ORK4
+
+**Algebra booleana**: en informática y matemática, es una estructura algebraica que esquematiza las operaciones lógicas Y, O , NO y SI (AND, OR, NOT, IF), así como el conjunto de operaciones unión, intersección y complemento. Es el algebra de 2 valores, 0 y 1.
+
+Reglas del algebra booleana.
+
+https://www.youtube.com/watch?v=vOSCevaytLA
