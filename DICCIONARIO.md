@@ -321,3 +321,19 @@ https://www.profesionalreview.com/2020/03/21/protocolo-tcp-ip/#Capa_1_o_de_acces
 
 https://www.ibm.com/support/knowledgecenter/es/ssw_aix_72/network/tcpip_protocols.html?origURL=ssw_aix_72/com.ibm.aix.networkcomm/tcpip_protocols.htm
 
+## Nivel 1 – Tarea 31:  El proceso ETL
+
+**ETL** (Extract, Transform, Load): Es un proceso mediante el cual se extraen los datos en crudo de una o múltiples fuentes, se transforman según nuestras necesidades de estructura o analítica y cargarlos en otra base de datos con el objeto de analizarlos
+
+https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/bid/312584/procesos-etl-definici-n-caracter-sticas-beneficios-y-retos
+**Base de datos**: conjunto de información perteneciente a un mismo contexto, ordenada de modo sistemático para su posterior recuperación, análisis y/o transmisión
+
+https://gestionbasesdatos.readthedocs.io/es/latest/Tema1/Teoria.html
+
+**Data-preprocessing**: 
+
+En minería de datos: El preprocesamiento de datos es una etapa esencial del proceso de descubrimiento de información o KDD (Knowledge Discovery in Databases, en inglés). Esta etapa se encarga de la limpieza de datos, su integración, transformación y reducción para la siguiente fase de minería de datos.
+
+En machine learning el preprocesamiento de datos es ese paso en el que los datos se transforman, o codifican, para llevarlos a un estado tal que la máquina pueda analizarlos fácilmente. En otras palabras, las características de los datos puedan ser fácilmente  interpretadas por el algoritmo.
+
+https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825
