@@ -278,3 +278,46 @@ https://www.youtube.com/watch?v=6Fq4Ah0ORK4
 Reglas del algebra booleana.
 
 https://www.youtube.com/watch?v=vOSCevaytLA
+
+## Nivel 1 - Tarea 25:  Paradigma cliente-servidor
+
+**Arquitectura cliente – servidor**: arquitectura distribuida de computación, en la que las tareas de cómputo se reparten entre distintos procesadores, obteniendo los usuarios finales el resultado final de forma transparente, con independencia del número de equipos (servidores) que han intervenido en el tratamiento. Se puede decir por tanto que la arquitectura cliente - servidor es un tipo de arquitectura distribuída
+
+El Esquema de funcionamiento de un Sistema Cliente/Servidor sería:
+
+1.	El cliente solicita una información al servidor.
+
+2.	El servidor recibe la petición del cliente.
+
+3.	El servidor procesa dicha solicitud.
+
+4.	El servidor envía el resultado obtenido al cliente.
+
+5.	El cliente recibe el resultado y lo procesa.
+
+Arquitectura cliente/servidor
+
+http://somebooks.es/arquitectura-clienteservidor/	
+
+**FTP**: File Transfer Protocol o FTP) es un protocolo de red para la transferencia de archivos entre sistemas conectados a una red TCP (Transmission Control Protocol), basado en la arquitectura cliente-servidor.
+
+**DNS**: (Domain Name System) este término hace referencia al sistema en general en el que está basado el funcionamiento de los dominios en Internet: una red mundial de servidores que traducen nombres que como humano entiendes, a direcciones IP que las máquinas entienden.
+
+https://www.youtube.com/watch?v=VpTIvKhSUj4
+
+https://www.youtube.com/watch?v=LqSqrtxrW7w
+
+**servidor-web**: es un programa que utiliza el protocolo de transferencia de hiper texto, HTTP (Hypertext Transfer Protocol), para servir los archivos que forman páginas Web a los usuarios, en respuesta a sus solicitudes, que son reenviados por los clientes HTTP de sus computadoras.
+
+https://blog.infranetworking.com/servidor-web/
+
+**IP**: protocolo de internet es el que dentro del modelo TCP/IP cumple las funciones de direccionamiento y enrutamiento de la información en la capa de red
+
+https://www.ionos.es/digitalguide/servidores/know-how/internet-protocol-definicion-y-fundamentos/
+
+**protocolo-TCP/IP**: conjunto de protocolos que hacen posible la comunicación entre dispositivos independientemente del tipo de hardware o software que utilicen.
+
+https://www.profesionalreview.com/2020/03/21/protocolo-tcp-ip/#Capa_1_o_de_acceso_al_medio
+
+https://www.ibm.com/support/knowledgecenter/es/ssw_aix_72/network/tcpip_protocols.html?origURL=ssw_aix_72/com.ibm.aix.networkcomm/tcpip_protocols.htm
+
