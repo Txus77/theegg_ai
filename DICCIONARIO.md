@@ -337,3 +337,9 @@ En minería de datos: El preprocesamiento de datos es una etapa esencial del pro
 En machine learning el preprocesamiento de datos es ese paso en el que los datos se transforman, o codifican, para llevarlos a un estado tal que la máquina pueda analizarlos fácilmente. En otras palabras, las características de los datos puedan ser fácilmente  interpretadas por el algoritmo.
 
 https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825
+
+## Nivel 1 – Tarea 33:  El juego de Picachu
+
+**Diagrama-de-flujo**: Son una forma de representación gráfica de los algoritmos. Se caracterizan porque cada paso del algoritmo se representa por figuras geométricas con un significado específico y flechas que determinan el sentido de flujo del mismo.
+
+**Bucles en programación**: son estructuras de control de flujo que permiten cambiar el sentido del flujo del programa repitiendo una serie de instrucciones de forma cíclica. Los bucles pueden ser determinados cuando se sabe el número de veces que se repiten las instrucciones o indeterminados cuando no conocemos el número de veces que se va a repetir.
