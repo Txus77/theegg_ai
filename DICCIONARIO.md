@@ -343,3 +343,15 @@ https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825
 **Diagrama-de-flujo**: Son una forma de representación gráfica de los algoritmos. Se caracterizan porque cada paso del algoritmo se representa por figuras geométricas con un significado específico y flechas que determinan el sentido de flujo del mismo.
 
 **Bucles en programación**: son estructuras de control de flujo que permiten cambiar el sentido del flujo del programa repitiendo una serie de instrucciones de forma cíclica. Los bucles pueden ser determinados cuando se sabe el número de veces que se repiten las instrucciones o indeterminados cuando no conocemos el número de veces que se va a repetir.
+
+## Nivel 1 – Tarea 34:  ¿Y qué es una API?
+
+**API (Application programming interface)**: conjunto de definiciones y protocolos que se utiliza para desarrollar e integrar el software de las aplicaciones, permitiendo la comunicación entre dos aplicaciones de software a través de un conjunto de reglas. En definitiva, interfaz para que se comuniquen aplicaciones y compartan datos.
+
+https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces
+
+**XML (extensible markup language)**: es un lenguaje de etiquetas que se usa para almacenar y enviar información
+
+**JSON (JavaScript Object Notation)**: es un formato para el intercambio de datos que se usa para almacenar y enviar información, basado en la notación literal de objetos de JavaScrip
+
+**Protocolo de comunicación**: Se trata del conjunto de reglas que posibilitan que distintos elementos que forman parte de un sistema establezcan comunicaciones entre sí, intercambiando información.
