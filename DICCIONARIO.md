@@ -355,3 +355,20 @@ https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces
 **JSON (JavaScript Object Notation)**: es un formato para el intercambio de datos que se usa para almacenar y enviar información, basado en la notación literal de objetos de JavaScrip
 
 **Protocolo de comunicación**: Se trata del conjunto de reglas que posibilitan que distintos elementos que forman parte de un sistema establezcan comunicaciones entre sí, intercambiando información.
+
+## Nivel 1 – Tarea 36:  Introducción a las bases de datos
+
+**bases-de-datos**: Una base de datos es una colección organizada de información estructurada, o datos, típicamente almacenados electrónicamente en un sistema de computadora. Contienen los datos y las reglas que rigen sobre esos datos
+
+https://www.youtube.com/watch?v=GenX0Bvu8WY&list=PL97WzFMf575iy7IGF0vfof40jA9U_LsAU
+
+**SQL** es un **lenguaje estructurado de consultas** usado por casi todas las bases de datos relacionales para consultar, manipular y definir datos, y para proporcionar control de acceso.
+
+Una base de datos relacional es un tipo de base de datos que almacena y proporciona acceso a puntos de datos relacionados entre sí.
+
+**NoSQL** (No only SQL) Las bases de datos NoSQL están diseñadas específicamente para modelos de datos específicos y tienen esquemas flexibles para crear aplicaciones modernas. Las bases de datos NoSQL son ampliamente reconocidas porque son fáciles de desarrollar, por su funcionalidad y el rendimiento a escala.
+
+*Que es sql y nosql? cuales son sus diferencias y cuando deberías utilizarlos:* 
+
+https://www.youtube.com/watch?v=zmXl2dOGWL8
+
