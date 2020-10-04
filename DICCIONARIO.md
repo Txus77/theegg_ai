@@ -372,3 +372,45 @@ Una base de datos relacional es un tipo de base de datos que almacena y proporci
 
 https://www.youtube.com/watch?v=zmXl2dOGWL8
 
+## Nivel 1 – Tarea 37:  Empezando con las redes de comunicación
+
+**Dirección-IP**: La dirección IP es un conjunto de números que identifica, de manera lógica y jerárquica, a una Interfaz en la red (elemento de comunicación/conexión) de un dispositivo (computadora, laptop, teléfono inteligente) que utilice el protocolo (Internet Protocol)  , que corresponde al nivel de red del modelo TCP/IP.
+
+https://raiolanetworks.es/blog/que-es-una-direccion-ip/#que_es_una_direccion_ip
+
+http://redestelematicas.com/direccionamiento-ipv4/
+
+**Internet**: Internet (el internet o, también, la internet)3 es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyan una red lógica única de alcance mundial.
+
+**red LAN**: Se conoce como red LAN (siglas del inglés: Local Área Network, que traduce Red de Área Local) a una red informática cuyo alcance se limita a un espacio físico reducido, como una casa, un departamento o a lo sumo un edificio.
+A través de una red LAN pueden compartirse recursos entre varias computadoras y aparatos informáticos (como teléfonos celulares, tabletas, etc.), tales como periféricos (impresoras, proyectores, etc.), información almacenada en el servidor (o en los computadores conectados) e incluso puntos de acceso a la Internet, a pesar de hallarse en habitaciones o incluso pisos distintos.
+
+https://concepto.de/red-lan/
+
+**red-WAN**: WAN es la abreviatura de Wide Area Network. Estas redes se extienden por grandes áreas geográficas y conectan redes más pequeñas como redes LAN (Local Area Networks) o MAN (Metropolitan Area Networks).
+
+https://www.ionos.es/digitalguide/servidores/know-how/wan/
+
+**máscara-de-subred**: La máscara de red es una combinación de bits que sirve para delimitar el ámbito de una red de ordenadores.1 Su función es indicar a los dispositivos qué parte de la dirección IP es el número de la red, incluyendo la subred, y qué parte es la correspondiente al host.
+
+https://www.youtube.com/watch?v=S7F_7Z3qnzA
+
+https://www.youtube.com/watch?v=1ICXiTq3CL0
+
+https://www.youtube.com/watch?v=hT35t_j7KAI
+
+https://www.youtube.com/watch?v=qwVQ1KE8fXo&list=PLg9145ptuAijivEI4t0cb31FA41zqclwO&index=8
+
+**router**: Un rúter, enrutador, (del inglés router) o encaminador, es un dispositivo que permite interconectar computadoras que funcionan en el marco de una red. Su función: se encarga de establecer la ruta que destinará a cada paquete de datos dentro de una red informática.
+
+http://redestelematicas.com/routers/
+
+https://www.xatakamovil.com/conectividad/modem-router-punto-acceso-que-se-diferencian-cual-cubre-mejor-tus-necesidades
+
+**switch**: Un switch o conmutador es un dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet (o técnicamente IEEE 802.3).
+
+http://redestelematicas.com/el-switch-como-funciona-y-sus-principales-caracteristicas/
+
+**Direcciones públicas**. Son las direcciones asignadas a dispositivos conectados a Internet y cuya dirección IP debe ser única para toda la Red. Hay organismos que se encargan de gestionar dichas asignaciones.
+
+**Direcciones privadas**. Son direcciones asignadas a dispositivos dentro de una red que no tiene “visibilidad” con Internet. Los dispositivos que tienen asignada una dirección privada no pueden acceder a Internet con su dirección y necesitan un dispositivo que les “preste” una dirección pública.
