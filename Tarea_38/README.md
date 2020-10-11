@@ -31,7 +31,7 @@ Su salida debe consistir en un solo número entero, el más pequeño palíndromo
 
 ## SOLUCIÓN
 
-1.- Biologo
+# 1.- Biologo
 
 La solución que se ha adoptado consta de los siguientes pasos:
 
@@ -61,3 +61,37 @@ se comprueba la cadena introducida descratando las que no se introduzcan de form
  en blanco
          
 Se aporta un diagrama de flujo para mejor entendimiento del código. 
+
+# 2.- Invertir palabras
+
+La solución que se ha adoptado consta de los siguientes pasos:
+
+1.- Introducir número de casos. Se debe introducir un número entero si no da un error y el programa vuelve a pedir que se introduzca un número.
+
+2.- Introducir tantas variables como números de casos se hayan definido. Cada variable consta de cadenas y espacios. Se comprueba que las variables sólo contengan letras y espacios. Si no da error y hay que volver a introducir el dato. Para la comprobación cada cadena de caracteres se transforma en un elemento de una lista y se comprueba caracter a caracter que no contenga otro tipo de carcater que no sean letras.
+
+3.- Una vez la comprobación anterior se ha realizado, se invierte el orden de los elementos de cada elemento de la lista creada y se imprime de acuerdo a los requerimientos del problema. Para invertir el orden de las secuencias de letras en cada variable lo que se hace es pasar cada secuencia a una lista de forma que cada una sea un elemento. Se invierte el orden de los elementos y se pasa el resultado de la lista a una cadena formada por las secuencias de letras separadas por espacios en orden invertido al que se introdujeron.
+
+Se aporta un diagrama de flujo para mejor entendimiento del código.
+
+# 3.- Palíndromos
+
+La solución que se ha adoptado consta de los siguientes pasos:
+
+1.- Se introduce el número. Se comprueba que cumple con los reuqerimientos del problema y que es un número entero. Si no se introduce correctamente da error y se pide que se vuelva a introducir de forma correcta.
+
+2.- Se van calculando todos los números consecutivamente a partir del introducido y se comprueba que sean primos y palindromos. El primer número que cumple ambas condiciones a la vez es el número buscado.
+        1.- para hallar si es primo me he basado en los criterios que se indican aquí:
+        https://www.wikiprimes.com/como-saber-si-un-numero-es-primo/#:~:text=Un%20n%C3%BAmero%20es%20primo%20si,divide%2C%20el%20n%C3%BAmero%20ser%C3%A1%20primo.
+        la comprobación de si el número es primo se realiza comprobando que cumple con estas 2 condiciones:
+                - Que no sea divisible de forma exacta por ningún número entre 2 y la raiz cuadrada del número dado, es decir, que el resto no sea 0.
+                - Que no sea 1
+        2.- Para comprobar si el número es palíndromo se cambia de tipo de variable de un entero a una cadena y se comprueba si la cadena es igual a su inverso
+
+Se aporta un diagrama de flujo para mejor entendimiento del código.
+
+
+
+
+
+
