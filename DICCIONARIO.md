@@ -414,3 +414,20 @@ http://redestelematicas.com/el-switch-como-funciona-y-sus-principales-caracteris
 **Direcciones públicas**. Son las direcciones asignadas a dispositivos conectados a Internet y cuya dirección IP debe ser única para toda la Red. Hay organismos que se encargan de gestionar dichas asignaciones.
 
 **Direcciones privadas**. Son direcciones asignadas a dispositivos dentro de una red que no tiene “visibilidad” con Internet. Los dispositivos que tienen asignada una dirección privada no pueden acceder a Internet con su dirección y necesitan un dispositivo que les “preste” una dirección pública.
+
+## Nivel 1 – Tarea 38:  Resolución de más algoritmos
+
+**Algoritmo**: Secuencia de pasos que representan un modelo de resolución de un problema. Debe ser:
+
+-	Preciso: Indicar el orden en el que se tiene que realizar cada paso
+
+-	Definido: ante los mismos datos de entrada dar siempre el mismo resultado
+
+-	Finito: Debe tener un fin
+
+-	Concreto: Ofrecer siempre un resultado
+
+**Diagrama de Flujo**: son una forma de representación gráfica de un algoritmo que se caracterizan  porque cada paso del algoritmo se representa utilizando una figura geométrica con un significado específico.  Estas figuras se conectan entre sí por medio de flechas que indican el sentido de flujo del algoritmo.
+
+**Convención-de-programación**: son un conjunto de directrices para un lenguaje de programación concreto que recomienda estilo, prácticas, y métodos de programación para cada aspecto de un programa escrito en cada lenguaje. Estas convenciones normalmente comprenden gestión de archivos, sangría, comentarios, declaraciones, sentencias, espaciado, convenciones de nombres, buenas prácticas de programación, principios de programación, buenas prácticas de arquitectura, etc. Estas son directrices para la calidad estructural del software. Se recomienda encarecidamente a los programadores de software seguir estas directrices para ayudar a mejorar la legibilidad de su código de fuente y un fácil mantenimiento del software.
+
