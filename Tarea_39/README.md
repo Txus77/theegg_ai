@@ -17,6 +17,6 @@ La solución se ha realizado con Packet tracer 7.1
 Se ha realizado la solución simulando que tanto el servidor web, el servidor DNS y el PC pertenecían a diferentes redes y se ha utilizado 2 router.
 En la solución se han configurado los 2 router de forma que se han tenido que crear 2 tablas de enrutamiento estático (una en cada router) 
 
-###Red con servidor DHCP
+### Red con servidor DHCP
 
 
