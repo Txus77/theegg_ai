@@ -31,7 +31,7 @@ Su salida debe consistir en un solo número entero, el más pequeño palíndromo
 
 ## SOLUCIÓN
 
-Se ha utilizado Phyton 3.8 para la resolución de los difernetes problemas. 
+Se ha utilizado Phyton 3.8 para la resolución de los diferentes problemas. 
 
 # 1.- Biologo
 
