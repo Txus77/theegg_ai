@@ -31,6 +31,8 @@ Su salida debe consistir en un solo número entero, el más pequeño palíndromo
 
 ## SOLUCIÓN
 
+Se ha utilizado Phyton 3.8 para la resolución de los difernetes problemas. 
+
 # 1.- Biologo
 
 La solución que se ha adoptado consta de los siguientes pasos:
