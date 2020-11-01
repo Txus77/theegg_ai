@@ -11,10 +11,17 @@ e.- Enrutamiento estático
 ## Solución
 
 La solución se ha realizado con Packet tracer 7.2
+
 Se plantea una solución que engloba todas los tipos de redes que se quieren obtener. Así en el mismo archivo están todas las redes que se piden.
+
 La topología planteada consta de 2 routers, un servidor WEB, un servidor DHCP, un servidor DNS, 3 switch y 10 Host. 
+
+La idea es simular las doferentes redes que se plantean de forma que no compartan red ninguno de los dispositivos a excepción de los Host que comparten red local.
+
 En un router están conectados el servidor DHCP y el servidor DNS.
+
 En el otro router se ha conectado el servidor WEB y 2 switch que dan acceso a las diferentes Vlan.
+
 Respecto a las Vlan planteadas se ha realizado con 2 topologías diferentes: 
 
 - En una de las topologías planteadas las 3 Vlan comparten un Switch que a su vez está conectado al router compartiendo las 3 el mismo interfaz fisico.
