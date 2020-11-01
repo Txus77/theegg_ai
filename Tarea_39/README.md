@@ -23,7 +23,7 @@ Respecto a las Vlan planteadas se ha realizado con 2 topologías diferentes:
 
 A continuación se pasa a detallar las configuraciones planteadas:
 
-### configuración DNS
+### Configuración DNS
 
 !Desktop
 
@@ -108,7 +108,7 @@ pulsamos ADD para añadir y Save para guardar
 	switchport access vlan 3
 	exit
 	 
-  !En el switch que se conecta al servidor el interface lo ponemos en modo trunk
+  	!En el switch que se conecta al servidor el interface lo ponemos en modo trunk
 	interface fastEthernet 0/5
 	switchport mode trunk
 
