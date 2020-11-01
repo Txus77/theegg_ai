@@ -73,7 +73,7 @@ Se pueden cambiar los mensajes que saldrán cuando desde un host accedamos a esa
 
 #### Router1
 
-En la configuarción fisica se añaden las interfaces que se prevea necesitar. En este caso se ha añadido NM2FE2W y WIT-2T con el objeto de añadirle interfaces fastEthernet e interfaces serial
+En la configuarción fisica se añaden las interfaces que se prevea necesitar. En este caso se ha añadido NM2FE2W y WIT-2T con el objeto de añadirle interfaces fastEthernet e interfaces serial.
 
 A este router van el servidor web y todas las redes con Host. Todos estos dispositivos se conectan al router por medio de las interfaces FastEthernet. Además, se ha conectado a otro router que es donde se encuntran conectados el servidor DHCP y el servidor DNS
 
