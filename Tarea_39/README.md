@@ -72,9 +72,7 @@ A este router van el servidor web y todas las redes con Host. Todos estos dispos
 
 A continuación se describe la configuración de las diferentes interfaces en uso:
 
-Entramos en modo configuración del router
-
-Interface fastEthernet 0/0 (A través de esta interface se conecta dos redes de 4 PCs cada una dispuetos de 2 en 2 en switch diferentes, es decir, 2 PCs conectados al primer switch y 2 PCs del segundo switch pertenecen a la misma red)
+En la Interface fastEthernet 0/0  se conectan dos redes de 4 PCs cada una dispuetos de 2 en 2 en switch diferentes, es decir, 2 PCs conectados al primer switch y 2 PCs del segundo switch pertenecen a la misma red
 
   ##### Configurar VLANs con Host en 2 switch diferentes
   
@@ -151,7 +149,7 @@ Interface fastEthernet 1/0 (A través de esta interface se conecta el servidor W
 	no shutdown
 	exit
 
-Interface fastEthernet 1/1 (A través de esta interface se conecta 3 subredes, de 2 PCs cada una, que están conectadas a un switch)
+En el Interface fastEthernet 1/1  se conecta 3 subredes, de 2 PCs cada una, que están conectadas a un switch
 
   ##### Configurar VLANs que comparten switch
   
