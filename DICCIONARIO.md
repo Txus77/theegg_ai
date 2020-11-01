@@ -431,3 +431,8 @@ http://redestelematicas.com/el-switch-como-funciona-y-sus-principales-caracteris
 
 **Convención-de-programación**: son un conjunto de directrices para un lenguaje de programación concreto que recomienda estilo, prácticas, y métodos de programación para cada aspecto de un programa escrito en cada lenguaje. Estas convenciones normalmente comprenden gestión de archivos, sangría, comentarios, declaraciones, sentencias, espaciado, convenciones de nombres, buenas prácticas de programación, principios de programación, buenas prácticas de arquitectura, etc. Estas son directrices para la calidad estructural del software. Se recomienda encarecidamente a los programadores de software seguir estas directrices para ayudar a mejorar la legibilidad de su código de fuente y un fácil mantenimiento del software.
 
+## Nivel 1 – Tarea 39:  Simulador de redes
+
+**Redes informáticas**: Las redes informáticas  se constituyen cuando 2 o más sistemas informáticos se conectan entre sí mediante una serie de dispositivos alámbricos o inalámbricos para compartir recursos o intercambiar información
+
+**Internet**: red informática descentralizada de alcance global. Internet es un medio de comunicación público, cooperativo y autosuficiente, accesible a cientos de personas en todo el mundo. Internet usa parte del total de recursos actualmente existentes en las redes de telecomunicaciones. Lo que  distingue a Internet, es el uso de del protocolo de comunicación, llamado TCP/IP (Transmission Control Protocol/Internet Protocol).
