@@ -16,7 +16,7 @@ Se plantea una solución que engloba todas los tipos de redes que se quieren obt
 
 La topología planteada consta de 2 routers, un servidor WEB, un servidor DHCP, un servidor DNS, 3 switch y 10 Host. 
 
-La idea es simular las doferentes redes que se plantean de forma que no compartan red ninguno de los dispositivos a excepción de los Host que comparten red local.
+La idea es simular las diferentes redes que se plantean de forma que no comparta red ninguno de los dispositivos a excepción de los Host que comparten red local.
 
 En un router están conectados el servidor DHCP y el servidor DNS.
 
