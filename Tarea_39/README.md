@@ -3,9 +3,13 @@
 Se trata de simular las siguientes redes en Packet Tracer
 
 a.- Red con servidor web y servidor de DNS
+
 b.- Red con servidor DHCP
+
 c.- Red VLAN básica
+
 d.- Unir dos redes VLAN con un router
+
 e.- Enrutamiento estático
 
 ## Solución
