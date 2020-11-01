@@ -25,56 +25,56 @@ A continuación se pasa a detallar las configuraciones planteadas:
 
 ### Configuración DNS
 
-!Desktop
+Desktop
 
 	IP address 10.1.50.2
 	Subnet Mask 255.255.255.0
 	Default Gateway 10.1.50.1
 	DNS Server 0.0.0.0
 
-!Services
+Services
 
-DNS Service On
+	DNS Service On
 
-!Resource Records
+Resource Records
 
-Name www.conseguido.es 	!es el nombre que queremos que se relaciones con la IP que indiquemos
+	Name www.conseguido.es 	!es el nombre que queremos que se relaciones con la IP que indiquemos
 
 Type A record
 
-Address 192.168.1.2 	!Se pone la IP del servidor WEB cuya pagina queremos que muuestre al poner el nombre www.conseguido.es
+	Address 192.168.1.2 	!Se pone la IP del servidor WEB cuya pagina queremos que muuestre al poner el nombre www.conseguido.es
 
 pulsamos ADD para añadir y Save para guardar
 
 ### configuración servidor WEB
 
-!Desktop
+Desktop
 
 	IP address 192.168.1.2
 	Subnet Mask 255.255.255.0
 	Default Gateway 192.168.1.1
 	DNS Server 0.0.0.0
 
-!Services
+Services
 
 	HTTP On
 	HTTPS On
 
-!Se pueden cambiar los mensajes que saldrán cuando desde un host accedamos a esa dirección editándolos y guardandolos.
+Se pueden cambiar los mensajes que saldrán cuando desde un host accedamos a esa dirección editándolos y guardandolos.
 
 ### Configurar Routers
 
 #### Router1
 
-!En la configuarción fisica se añaden las interfaces que se prevea necesitar. En este caso se ha añadido NM2FE2W y WIT-2T con el objeto de añadirle interfaces fastEthernet e interfaces serial
+En la configuarción fisica se añaden las interfaces que se prevea necesitar. En este caso se ha añadido NM2FE2W y WIT-2T con el objeto de añadirle interfaces fastEthernet e interfaces serial
 
-!A este router van el servidor web y todas las redes con Host. Todos estos dispositivos se conectan al router por medio de las interfaces FastEthernet. Además, se ha conectado a otro router que es donde se encuntran conectados el servidor DHCP y el servidor DNS
+A este router van el servidor web y todas las redes con Host. Todos estos dispositivos se conectan al router por medio de las interfaces FastEthernet. Además, se ha conectado a otro router que es donde se encuntran conectados el servidor DHCP y el servidor DNS
 
-!A continuación se describe la configuración de las diferentes interfaces en uso:
+A continuación se describe la configuración de las diferentes interfaces en uso:
 
-!Entramos en modo configuración del router
+Entramos en modo configuración del router
 
-!Interface fastEthernet 0/0 (A través de esta interface se conecta dos redes de 4 PCs cada una dispuetos de 2 en 2 en switch diferentes, es decir, 2 PCs conectados al primer switch y 2 PCs del segundo switch pertenecen a la misma red)
+Interface fastEthernet 0/0 (A través de esta interface se conecta dos redes de 4 PCs cada una dispuetos de 2 en 2 en switch diferentes, es decir, 2 PCs conectados al primer switch y 2 PCs del segundo switch pertenecen a la misma red)
 
   ##### Configurar VLANs con Host en 2 switch diferentes
   
@@ -118,7 +118,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Configurar Interface fastEthernet 0/0
 
-!Configuración la interface del  Router donde se conecta el switch. En este caso el puerto fastEthernet 0/0 lo van a compartir las 2 subredes
+Configuración la interface del  Router donde se conecta el switch. En este caso el puerto fastEthernet 0/0 lo van a compartir las 2 subredes
 
 	!Entramos en el modo configuración del router
 
@@ -143,7 +143,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Configurar Interface fastEthernet 1/0
 
-!Interface fastEthernet 1/0 (A través de esta interface se conecta el servidor WEB)
+Interface fastEthernet 1/0 (A través de esta interface se conecta el servidor WEB)
 
 	Interface fastEthernet 1/0
 	IP address 192.168.1.1
@@ -151,7 +151,7 @@ pulsamos ADD para añadir y Save para guardar
 	no shutdown
 	exit
 
-!Interface fastEthernet 1/1 (A través de esta interface se conecta 3 subredes, de 2 PCs cada una, que están conectadas a un switch)
+Interface fastEthernet 1/1 (A través de esta interface se conecta 3 subredes, de 2 PCs cada una, que están conectadas a un switch)
 
   ##### Configurar VLANs que comparten switch
   
@@ -207,7 +207,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Configurar Interface fastEthernet 1/1
 
-!Configuración la interface del  Router donde se conecta el switch. En este caso el puerto fastEthernet 1/1 lo van a compartir las 3 subredes
+Configuración la interface del  Router donde se conecta el switch. En este caso el puerto fastEthernet 1/1 lo van a compartir las 3 subredes
 
 	!Entramos en el modo configuración del router
 
@@ -241,7 +241,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Configurar Interface Serial 0/0
 
-!configuramos el puertos serial 0/0 que es que conecta con el Router2
+Configuramos el puertos serial 0/0 que es que conecta con el Router2
 
 	interface serial0/0
 	IP address 200.33.1.1
@@ -252,31 +252,29 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Enrutamiento
 
-!por último creamos la tabla de enrutamiento
+Por último creamos la tabla de enrutamiento
 
 	ip router 10.1.50.0 255.255.255.0 200.33.1.2
 	ip router 174.32.1.0 255.255.255.0 200.33.1.2
 
 #### Router 2
 
-!configuramos el Router2. En este router van conectados el servidor DNS y el servidor DHCP
+Configuramos el Router2. En este router van conectados el servidor DNS y el servidor DHCP
 
-!como en el Router1 en el apartado de configuración fisica añadimos las interfaces que necesitemos. En este caso han sido las mismas que en el Router1
+Como en el Router1, en el apartado de configuración fisica añadimos las interfaces que necesitemos. En este caso han sido las mismas que en el Router1
 
-!configuramos el interface fastEthernet 0/0 que es donde va conectado el servidor DNS
+Configuramos el interface fastEthernet 0/0 que es donde va conectado el servidor DNS
 
-!entramos en modo de configuración del router
-
-##### Configurar Interface FastEthernet 0/0
-
+##### Configurar interface fastEthernet 0/0
+	!entramos en modo de configuración del router
 	interface fastEthernet 0/0
 	IP address 10.1.50.1
 	Subnet Mask 255.255.0.0
 	exit
 
-##### Configurar Interface FastEthernet 1/0
+##### Configurar interface fastEthernet 1/0
 
-!configuramos interface fastEthernet 1/0 que es donde está conectado el servidor DHCP
+Configuramos interface fastEthernet 1/0 que es donde está conectado el servidor DHCP
 
 	interface fastEthernet 1/0
 	IP address 174.32.1.1
@@ -285,7 +283,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Configurar Interface Serial 0/0
 
-!configuramos el interface serial 0/0 que va conectado al otro Router
+Configuramos el interface serial 0/0 que va conectado al otro Router
 
 	IP address 200.33.1.2
 	Subnet Mask 255.255.255.0
@@ -296,7 +294,7 @@ pulsamos ADD para añadir y Save para guardar
 
 ##### Enrutamiento
 
-!Por último creamos la tabla de enrutamiento
+Por último creamos la tabla de enrutamiento
 
 	ip router 192.168.1.0 255.255.255.0 200.33.1.1
 	ip router 172.16.1.0 255.255.255.0 200.33.1.1
@@ -307,13 +305,13 @@ pulsamos ADD para añadir y Save para guardar
 
 ### configuración DHCP
 
-	!Desktop
+Desktop
 
 	IP address 174.32.1.2
 	Subnet Mask 255.255.255.0
 	Default Gateway 174.32.1.1
 
-!Services
+Services
 
 	Service On
 
@@ -324,9 +322,9 @@ pulsamos ADD para añadir y Save para guardar
 	Subnet Mask 255.255.255.0       !mascara de subred que se aisgnará!
 	Maxinum Number of Users: 8      !número maximo de host a los que se aignará IP!
 
-!todo lo anterior se tiene que configurar en cada Pool para cada red en la que se quiera asignar IP a sus Host
+Todo lo anterior se tiene que configurar en cada Pool para cada red en la que se quiera asignar IP a sus Host
 
-!Las siguientes son las configuraciones de los Pool para las Vlan 2, Vlan 3 y Vlan 4 que están conectadas al Switch_subredes. Estas comparten el Interfaz fastEthernet 1/1 del Router1.
+Las siguientes son las configuraciones de los Pool para las Vlan 2, Vlan 3 y Vlan 4 que están conectadas al Switch_subredes. Estas comparten el Interfaz fastEthernet 1/1 del Router1.
 
 	Pool Name ServerPool1
 	Default Gateway 100.100.1.1 
