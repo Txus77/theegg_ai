@@ -436,3 +436,46 @@ http://redestelematicas.com/el-switch-como-funciona-y-sus-principales-caracteris
 **Redes informáticas**: Las redes informáticas  se constituyen cuando 2 o más sistemas informáticos se conectan entre sí mediante una serie de dispositivos alámbricos o inalámbricos para compartir recursos o intercambiar información
 
 **Internet**: red informática descentralizada de alcance global. Internet es un medio de comunicación público, cooperativo y autosuficiente, accesible a cientos de personas en todo el mundo. Internet usa parte del total de recursos actualmente existentes en las redes de telecomunicaciones. Lo que  distingue a Internet, es el uso de del protocolo de comunicación, llamado TCP/IP (Transmission Control Protocol/Internet Protocol).
+
+## Nivel 1 – Tarea 40:  La seguridad es importante
+
+**Pentesting** es una abreviatura formada por dos palabras “penetration” y “testing” y es una práctica/técnica que consiste en atacar diferentes entornos o sistemas con la finalidad de encontrar y prevenir posibles fallos en el mismo.
+
+https://www.campusciberseguridad.com/blog/item/139-que-es-el-pentesting
+
+**XXL (Cross SIte Scripting)**: es un tipo de vulnerabilidad típico de aplicaciones web, que consiste en la inyección de código que no pertenece al código original de la pagina web.
+
+https://www.youtube.com/watch?v=ZhH8bwZYn8w&list=PL1UnfB2evouGiHRoUB_t-I4Mt_0RreZUu
+
+**SQL injection** es una vulnerabilidad que permite la inyección de código SQL mediante la entrada de datos proveniente del lado del cliente hacia el servidor. El cual permite alterar el funcionamiento normal del programa y lograr asi que se ejecute el código inyectado.
+
+https://www.youtube.com/watch?v=kpCMqAvH-IY&list=PL1UnfB2evouFvcZWbxM7H8dDlEo1VmRms
+
+https://softwarelab.org/es/que-es-inyeccion-sql/
+
+Un ataque de **denegación de servicio**, tiene como objetivo inhabilitar el uso de un sistema, una aplicación o una máquina, con el fin de bloquear el servicio para el que está destinado. Este ataque puede afectar, tanto a la fuente que ofrece la información como puede ser una aplicación o el canal de transmisión, como a la red informática
+Existen dos técnicas de este tipo de ataques: la **denegación de servicio o DoS** (por sus siglas en inglés Denial of Service) y la **denegación de servicio distribuido o DDoS** (por sus siglas en inglés Destributed Denial of Service). La diferencia entre ambos es el número de ordenadores o IP´s que realizan el ataque.
+
+https://www.osi.es/es/actualidad/blog/2018/08/21/que-son-los-ataques-dos-y-ddos
+
+La **ingeniería social** basa su comportamiento en una premisa básica: es más fácil manejar a las personas que a las máquinas. Para llevar a cabo este tipo de ataque se utilizan técnicas de manipulación psicológica con el objetivo de conseguir que los usuarios revelen información confidencial o realicen cualquier tipo de acción que pueda beneficiar al ciberdelincuente
+
+https://www.incibe.es/protege-tu-empresa/blog/ingenieria-social-tecnicas-utilizadas-los-ciberdelincuentes-y-protegerse
+
+Un **hacker** es un individuo que crea y modifica software y hardware de computadoras, para desarrollar nuevas funciones o adaptar las antiguas, sin que estas modificaciones sean dañinas para el usuario del mismo.
+
+**Cracker** es el término que define a programadores maliciosos y ciberpiratas que actúan con el objetivo de violar ilegal o inmoralmente sistemas cibernéticos, siendo un término creado en 1985 por hackers en defensa del uso periodístico del término.
+
+https://www.tecnologia-informatica.com/que-es-un-cracker/
+
+El ataque **MITM (Man in the middle)**, del inglés “Hombre en el medio”, Es un tipo de ataque basado en interceptar la comunicación entre 2 o más interlocutores, pudiendo suplantar la identidad de uno u otro según lo requiera para ver la información y modificarla a su antojo, de tal forma que las respuestas recibidas en los extremos pueden estar dadas por el atacante y no por el interlocutor legítimo
+
+https://www.incibe.es/protege-tu-empresa/blog/el-ataque-del-man-middle-empresa-riesgos-y-formas-evitarlo
+
+**Phising**: El phishing es una técnica que consiste en el envío de un correo electrónico por parte de un ciberdelincuente a un usuario simulando ser una entidad legítima (red social, banco, institución pública, etc.) con el objetivo de robarle información privada, realizarle un cargo económico o infectar el dispositivo. Para ello, adjuntan archivos infectados o enlaces a páginas fraudulentas en el correo electrónico.
+
+https://www.incibe.es/aprendeciberseguridad/phishing
+
+https://www.osi.es/es/banca-electronica
+
+
