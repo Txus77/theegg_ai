@@ -478,4 +478,30 @@ https://www.incibe.es/aprendeciberseguridad/phishing
 
 https://www.osi.es/es/banca-electronica
 
+## Nivel 1 – Tarea 41:  Tu primera expresión regular
+
+**Expresiones-regulares**: Es una cadena de caracteres especial que define un patrón de búsqueda
+
+**Procesamiento-del-lenguaje-natural**: El PLN o NLP es la práctica del entendimiento de cómo las personas organizamos nuestros pensamientos, sentimientos, lenguaje y comportamiento. Un campo que se extiende hasta las ciencias de la computación, inteligencia artificial y lingüística en el estudio de las interacciones entre las computadoras y los seres humanos. El objetivo es poder dotar a la máquina de la capacidad de interpretar el texto simulando la habilidad humana de entender el lenguaje.
+
+https://www.aprendemachinelearning.com/procesamiento-del-lenguaje-natural-nlp/
+
+**Scrapping**: significa en la extracción de información de cualquier fuente (base de datos, archivos csv, etc) y no necesariamente páginas web. Para usar esta técnica es necesario conocer la estructura de la página web de la cual queremos extraer información, es decir deberíamos conocer la estructura HTML de dicha página así como las clases CSS de sus elementos.
+https://sitelabs.es/web-scraping-introduccion-y-herramientas/
+
+**Crawling**: Es una técnica para visitar todas las páginas de un sitio web o todos los sitios web de un determinado contexto y a medida que va visitando los links de dichas páginas va encontrando más y más links hasta encontrar la información requerida. Es útil para inspeccionar a profundidad un conjunto grande de páginas web
+
+Diferencia scrapping – crawling
+
+http://blog.pucp.edu.pe/blog/pamelars/2019/07/22/diferencia-web-crawling-web-scraping-p1/
+
+En términos simples, el web crawling es el proceso de buscar y obtener hipervínculos repetidamente a partir de una lista de URL de inicio.
+
+En términos generales, Web Crawling es el proceso de localizar información en la World Wide Web (WWW), indexar todas las palabras de un documento, agregarlas a una base de datos, seguir todos los hipervínculos e índices y agregar esa información también a la base de datos.
+
+En términos simples, Web scraping es el proceso de solicitar automáticamente un documento web y recopilar información de él. Estrictamente hablando, para hacer web scraping, tienes que hacer un cierto grado de crawling web para moverte por los sitios web.
+
+Web Scraping está dirigido esencialmente a sitios web específicos para obtener datos específicos, por ejemplo, datos del mercado de valores, clientes potenciales de negocios, scraping de productos de proveedores y esto lo proporciona principalmente el proveedor de servicios de scraping web
+
+http://prowebscraping.com/web-scraping-vs-web-crawling/
 
