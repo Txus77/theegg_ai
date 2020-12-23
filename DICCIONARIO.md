@@ -505,3 +505,28 @@ Web Scraping está dirigido esencialmente a sitios web específicos para obtener
 
 http://prowebscraping.com/web-scraping-vs-web-crawling/
 
+## Nivel 1 – Tarea 26:  Estadística descriptiva para novatos
+
+**Estadística-descriptiva**: Recogida de información, descripción y análisis de un grupo de datos utilizando métodos numéricos y gráficos.
+
+https://www.uv.es/vcoll/Temas_AED/TEMA_1_introduccion_AED.html#
+
+https://www.superprof.es/apuntes/escolar/matematicas/estadistica/descriptiva/resumen-de-estadistica-descriptiva.html
+
+**Análisis-exploratorio o en inglés Exploratory Data Analysis (EDA)** es un método de análisis de los conjuntos de datos para resumir sus principales características. El EDA se utiliza para ver lo que los datos pueden decirnos antes de la tarea de modelación
+
+https://unipython.com/que-es-el-analisis-exploratorio-de-datos/
+_“el arte de mirar uno o más conjuntos de datos en un esfuerzo por comprender la estructura subyacente de los datos allí contenidos ”_(Pearson, 2018: 4).
+_“Observamos números o gráficos y tratamos de encontrar patrones. Buscamos pistas sugeridas por la información de fondo, la imaginación, los patrones percibidos y la experiencia con otros análisis de datos ”_(cita de Diaconis en Pearson (2018: 4)).
+
+**Datos estructurados** tienen perfectamente definido la longitud, el formato y el tamaño de sus datos.
+
+Se almacenan en formato tabla, hojas de cálculo o en bases de datos relacionales.
+
+Los **datos no estructurados** se caracterizan por no tener un formato específico.
+
+Se almacenan en múltiples formatos como documentos PDF o Word, correos electrónicos, ficheros multimedia de imagen, audio o video,…
+
+Los **datos semiestructurados** son una mezcla de los dos anteriores no presenta una estructura perfectamente definida como los datos estructurados pero si presentan una organización definida en sus metadatos donde describen los objetos y sus relaciones, y que en algunos casos están aceptados por convención, como por ejemplo los formatos HTML, XML o JSON.
+
+https://www.diegocalvo.es/tipos-de-datos-estructurados-semiestructurados-y-no-estructurados/
