@@ -505,7 +505,7 @@ Web Scraping está dirigido esencialmente a sitios web específicos para obtener
 
 http://prowebscraping.com/web-scraping-vs-web-crawling/
 
-## Nivel 1 – Tarea 26:  Estadística descriptiva para novatos
+## Nivel 1 – Tarea 46:  Estadística descriptiva para novatos
 
 **Estadística-descriptiva**: Recogida de información, descripción y análisis de un grupo de datos utilizando métodos numéricos y gráficos.
 
@@ -532,3 +532,29 @@ Se almacenan en múltiples formatos como documentos PDF o Word, correos electró
 Los **datos semiestructurados** son una mezcla de los dos anteriores no presenta una estructura perfectamente definida como los datos estructurados pero si presentan una organización definida en sus metadatos donde describen los objetos y sus relaciones, y que en algunos casos están aceptados por convención, como por ejemplo los formatos HTML, XML o JSON.
 
 https://www.diegocalvo.es/tipos-de-datos-estructurados-semiestructurados-y-no-estructurados/
+
+## Nivel 1 – Tarea 26:  Analizar datos del Covid-19
+**Herramientas de Business Intelligence** permiten obtener información, analizarla, procesarla y reportarla. ¿El objetivo? Utilizar esos datos para mejorar la eficiencia de una empresa, detectar posibles carencias y diferenciarse frente a la competencia.
+
+**Calidad de datos** una sencilla definición: adecuación al uso (fitness for use).
+
+https://blog.sortega.com/del-big-data-al-data-quality-la-gestion-de-la-calidad-de-los-datos/
+
+**Análisis exploratorio**: El EDA propugna que previo a cualquier análisis estadístico, es necesario un examen cualitativo de los datos, hay que comprender y reflexionar sobre la información que ellos contienen.
+
+La estadística descriptiva clásica se ocupa de describir los datos a través de gráficos y de algunas medidas de tendencia central y de dispersión. El EDA tiene los mismos objetivos pero además pretende detectar anomalías o errores en las distribuciones univariantes de los datos. También intenta descubrir patrones o modelos. Para ello incorpora nuevas técnicas gráficas y busca estadísticos resistentes y robustos basados en las estadísticas de orden y centrados en la mediana.
+
+**La estadística descriptiva** es la rama de la estadística que recolecta, analiza y caracteriza un conjunto de datos (peso de la población, beneficios diarios de una empresa, temperatura mensual,…) con el objetivo de describir las características y comportamientos de este conjunto mediante medidas de resumen, tablas o gráficos.
+
+**Histograma** : se utiliza para representar gráficamente los datos de una variable continua (o cuantitativa discreta con muchas modalidades), que han sido agrupados en (intervalos de) clases. En un eje (X) representamos las clases, teniendo en cuenta la amplitud de los intervalos, y en el otro eje (Y) levantamos un rectángulo de área igual a la frecuencia de la clase.
+
+**Gráfico de barras o Diagrama de barras**: idóneo para representar gráficamente los datos de una variable cuantitativa discreta (o cualitativa). Las modalidades de la variable se representan en el eje X y se levanta una barra de altura igual a la frecuencia de cada modalidad.
+
+**Gráfico circular**: es un diagrama que muestra los datos en sectores fáciles de entender. Cada sector representa una categoría de datos y el tamaño es proporcional a la cantidad que representa.
+
+**Gráfico de dispersión** consiste en la representación gráfica de dos variables para un conjunto de datos. En otras palabras, analizamos la relación entre dos variables, conociendo qué tanto se afectan entre sí o qué tan independientes son una de la otra.
+
+**Gráfico de caja y bigotes**: son una presentación visual que describe varias características importantes, al mismo tiempo, tales como la dispersión y simetría.
+
+**Cartograma**: Son unos gráficos que se realizan de forma de mapa, indicando según sus características las distintas zonas y las cantidades según su representación, es decir que representan las unidades geométricas y sus atributos como son expuestos en el área, solo mostrando los cambios que dependen del incremento, como por ejemplo al no representar el espacio geográfico sino la cantidad de habitantes que tiene si se trata de un cartograma de un país. Los cartogramas no representan la realidad del espacio físico de un área determinada, puede llegar a ser muy similar o bien que no tenga ningún parecido al espacio real
+
