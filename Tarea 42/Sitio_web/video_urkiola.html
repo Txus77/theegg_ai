@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title> Parques Naturales en Bizkaia </title>
+  <meta charset="utf-8">
+  <meta name="description" content="Parques naturales de Bizkaia">
+  <meta name="keywords" content="Parque natural, red natura, fauna, silvestre, Bizkaia">
+  <link rel="icon" href="imagenes/icono.png" type="image/png" sizes="16x16">
+  <link rel="stylesheet" href="recursos/estilos.css">
+
+</head>
+<body>
+  <header id="principal">
+    <h1 id="titulo"> Parques Naturales de Bizkaia </h1>
+  </header>
+  <nav>
+    <div class="enlace">
+      <a href=index.html id="indice"> Principal</a>
+    </div>
+    <div class="enlace">
+      <a href=Fotos_animales.html id="fotografias"> Fauna silvestre</a>
+    </div>
+    <div class="enlace">
+      <a href=video_armanon.html id="videos"> Video Parque Natural de Armañon</a>
+    </div>
+    <div class="enlace">
+      <a href=video_urkiola.html id="videos"> Video Parque Natural de Urkiola</a>
+    </div>
+    <div class="enlace">
+      <a href=video_gorbea.html id="videos"> Video Parque Natural de Gorbeia</a>
+    </div>
+  </nav>
+<section>
+
+  <video  controls   id="miVideo">
+    <source src="imagenes/videourkiola.mp4" type="video/mp4">
+
+  </video>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+  <script type="text/javascript">
+
+    if (annyang){
+      let commando = {
+        'hola': function (){
+          alert("hola");
+        },
+        'reproducir': playVideo,
+        'pausar': pauseVideo,
+
+
+      };
+
+      annyang.addCommands(commando);
+      annyang.setLanguage ("es-MX");
+
+      annyang.start();
+    }
+    var vid = document.getElementById("miVideo");
+
+    function playVideo() {
+      vid.play();
+    }
+
+    function pauseVideo() {
+      vid.pause();
+    }
+
+
+
+
+  </script>
+</section>
+<div id="separador">
+
+</div>
+
+<footer>
+<p>Trabajo realizado por Jesús Diego Rivero</p>
+<p>Tarea 42</p>
+<p>Escuela de Inteligencia Artificial "Theegg"</p>
+</footer>
+
+</body>
+</html>
