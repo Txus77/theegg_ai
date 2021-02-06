@@ -558,3 +558,44 @@ La estadística descriptiva clásica se ocupa de describir los datos a través d
 
 **Cartograma**: Son unos gráficos que se realizan de forma de mapa, indicando según sus características las distintas zonas y las cantidades según su representación, es decir que representan las unidades geométricas y sus atributos como son expuestos en el área, solo mostrando los cambios que dependen del incremento, como por ejemplo al no representar el espacio geográfico sino la cantidad de habitantes que tiene si se trata de un cartograma de un país. Los cartogramas no representan la realidad del espacio físico de un área determinada, puede llegar a ser muy similar o bien que no tenga ningún parecido al espacio real
 
+## Nivel 1 – Tarea 42:  HTML5, la revolución de los navegadores
+
+**Código fuente**: Por código fuente se entiende todo texto legible por un ser humano y redactado en un lenguaje de programación determinado. El objetivo del código fuente es crear normas y disposiciones claras para el ordenador y que este sea capaz de traducirlas a su propio lenguaje. De este modo, el texto fuente es la base de los programas y de las páginas web.
+
+https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/codigo-fuente-definicion-con-ejemplos/
+**Ajax** es una tecnología que permite hacer consultas por HTTP de manera asíncrona contra el servidor. Permite acceder a datos existentes en el servidor sin necesidad de recargar la página completamente.
+
+https://desarrolloweb.com/home/ajax
+
+https://www.hostinger.es/tutoriales/que-es-ajax/#Ejemplos-practicos-de-AJAX
+
+En programación comúnmente se dice que los procesos de un programa que se ejecutan de forma independiente se llaman **asíncronos**, mientras que si son procesos ejecutados en respuesta a otro proceso serán **síncronos**.
+El término **asíncrono** se refiere al concepto de que más de una cosa ocurre al mismo tiempo, o múltiples cosas relacionadas ocurren sin esperar a que la previa se haya completado
+https://developer.mozilla.org/es/docs/Glossary/As%C3%ADncrono
+
+https://apuntes.de/nodejs/sincrono-vs-asincrono/#gsc.tab=0
+
+Un **código síncrono** es aquel código donde cada instrucción espera a la anterior para ejecutarse mientras que un **código asíncrono** no espera a las instrucciones diferidas y continúa con su ejecución.
+
+**HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language)** es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
+
+https://developer.mozilla.org/es/docs/Web/HTML
+
+**Hojas de Estilo en Cascada (del inglés Cascading Style Sheets) o CSS** es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (incluyendo varios languages basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
+
+https://developer.mozilla.org/es/docs/Web/CSS
+
+**JavaScript (JS)** es un lenguaje de programación ligero, interpretado, o compilado justo-a-tiempo (just-in-time) con funciones de primera clase. Si bien es más conocido como un lenguaje de scripting (secuencias de comandos) para páginas web, y es usado en muchos entornos fuera del navegador, tal como Node.js, Apache CouchDB y Adobe Acrobat. JavaScript es un lenguaje de programación basada en prototipos, multiparadigma, de un solo hilo, dinámico, con soporte para programación orientada a objetos, imperativa y declarativa (por ejemplo programación funcional).
+
+https://developer.mozilla.org/es/docs/Web/JavaScript
+
+La **interfaz** de programación de aplicaciones, conocida también por la sigla API, en inglés, application programming interface,  es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizado por otro software como una capa de abstracción.
+En informática, se emplea el vocablo interfaz para referirse a la dinámica física y lógica de interconexión entre dos aparatos o sistemas independientes, o bien entre un sistema informático y su usuario humano.
+
+**Las interfaces sirven para normar y facilitar el intercambio de información.**
+
+https://concepto.de/interfaz/
+
+
+
+
