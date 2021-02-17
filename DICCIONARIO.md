@@ -597,5 +597,26 @@ En informática, se emplea el vocablo interfaz para referirse a la dinámica fí
 https://concepto.de/interfaz/
 
 
+## Nivel 1 – Tarea 43:  Aprendamos un poco de SQL
+
+**Base de datos**: conjunto de información organizada  que tiene relación entre sí
+
+**Sistema Gestor de bases de datos**: Es un software que permite la creación de bases de datos y su interacción con los usuarios. Se encarga de proporcionar a los usuarios acceso a los datos, persistencia y capacidad de manipulación. (conjunto de programas que permiten trabajar con las bases de datos)
+
+**SQL**: Es el lenguaje estándar usado para la gestión y recuperación de información procedente de las bases de datos
+
+**Bases-de-datos-relacionales**  es una recopilación de elementos de datos con relaciones predefinidas entre ellos. Estos elementos se organizan como un conjunto de tablas con columnas y filas. Las tablas se utilizan para guardar información sobre los objetos que se van a representar en la base de datos.
+
+https://www.youtube.com/watch?v=CBVp8sbo1w0
+
+**PostgreSQL** es un sistema gestor de bases de datos relacionales, está orientado a objetos, es decir, todos los elementos de nuestra base de datos van a poder tratarse como objetos, algo parecido a un lenguaje de programación, es multiplataforma,open source, extensible (podemos añadir funcionalidades que no vengan provistas de serie), y escalable
+
+https://openwebinars.net/blog/que-es-postgresql/?utm_source=youtube&utm_medium=descripcion&utm_campaign=que_es_postgresql
+
+**MongoDB**: Es un Sistema de gestión de base de datos no relacional (NoSQL) open-source orientado a documentos. Es multiplataforma de alta escalabilidad, renieminto alto (Hightperformance) y de disponibilidad de los datos elevada (High Availability)
+
+https://www.youtube.com/watch?v=c8n6JsQuX2A
+
+**MySQL** es un sistema gestor de bases de datos relacionales, multiusuario, multiplataforma y de código abierto
 
 
