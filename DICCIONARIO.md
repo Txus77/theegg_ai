@@ -635,5 +635,7 @@ O(g(n)) = { f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ f (n) ≤ c · g(n), ∀n ≥ n0 
 
 https://www.youtube.com/watch?v=MKoM7OO7IKA
 
+http://webdiis.unizar.es/asignaturas/AB/material/varios/eficiencia.pdf
+
 En computación y matemáticas un **algoritmo de ordenamiento** es un algoritmo que pone elementos de una lista o un vector en una secuencia dada por una relación de orden, es decir, el resultado de salida ha de ser una permutación —o reordenamiento— de la entrada que satisfaga la relación de orden dada.
 
