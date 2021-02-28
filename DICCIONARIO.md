@@ -619,4 +619,21 @@ https://www.youtube.com/watch?v=c8n6JsQuX2A
 
 **MySQL** es un sistema gestor de bases de datos relacionales, multiusuario, multiplataforma y de código abierto
 
+## Nivel 1 – Tarea 44:  Análisis del rendimiento de las aplicaciones de IA
+
+**Notación asintótica** Lenguaje u métrica que usamos para describir la eficiencia de los algoritmos. Nos permite representar la complejidad, y por ende la eficiencia, de un algoritmo, de tal manera que podemos proyectar el aumento de operaciones requeridas al aumentar el tamaño de la entrada (input). 
+
+https://www.cartagena99.com/recursos/alumnos/temarios/Notaciones_asintoticas.pdf
+
+https://medium.com/laboratoria-developers/algoritmos-y-notaci%C3%B3n-asint%C3%B3tica-817a666ca444
+
+http://www.extensionuned.es/archivos_publicos/qdocente_planes/9897/ejerciciosprogramacioniii.pdf
+
+**Notación Big O**: La notación O mayúscula, O(g), denota el conjunto de las funciones f que crecen a lo más tan rápido como g, es decir, las funciones f tales que, módulo constantes multiplicativas, g llega a ser en algún momento una cota superior para f. Su definición formal es:
+
+O(g(n)) = { f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ f (n) ≤ c · g(n), ∀n ≥ n0 }
+
+https://www.youtube.com/watch?v=MKoM7OO7IKA
+
+En computación y matemáticas un **algoritmo de ordenamiento** es un algoritmo que pone elementos de una lista o un vector en una secuencia dada por una relación de orden, es decir, el resultado de salida ha de ser una permutación —o reordenamiento— de la entrada que satisfaga la relación de orden dada.
 
