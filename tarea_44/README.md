@@ -20,7 +20,7 @@ Hay diferentes tipos de notación en función del caso qque se utilice de compar
 
 - Notación O (Omicrón, cota superior): O(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ f (n) ≤ c · g(n), ∀n ≥ n0}, es decir, a partir de n0, c · g(n) siempre supera (o iguala) a f (n)
 
-La jerarquía de complejidad de menor a mayor será: O(1) (constante) ⊂ O(log n) (logaritmico) ⊂ O(n) (lineal) ⊂ O(n log n) (Quasilineal): ⊂ O(n²) (cuadrática) ⊂ O(n³) (cúbico) ⊂ O(2ⁿ) (Exponencial)
+  La jerarquía de complejidad de menor a mayor será: O(1) (constante) ⊂ O(log n) (logaritmico) ⊂ O(n) (lineal) ⊂ O(n log n) (Quasilineal): ⊂ O(n²) (cuadrática) ⊂ O(n³)           (cúbico) ⊂ O(2ⁿ) (Exponencial)
 
 - Notación Ω (Omega, cota inferior): Ω(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ c · g(n) ≤ f (n), ∀n ≥ n0}, es decir, a partir de n0, f (n) siempre supera (o iguala) a c · g(n)
 
