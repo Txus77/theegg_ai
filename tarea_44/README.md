@@ -8,8 +8,7 @@ Se trata de analizar la eficiencia de los algoritmos medinte la Notación asint�
 
 La notación asintótica se desarrolla para analizar la eficiencia de los algoritmos con independencia del hardware, lenguaje de programación o compilador utilizado para su ejecución.
 
-Si representamos la eficiencia de un algoritmo por medio de una función donde en el eje de accisas se indica el número de datos de entrada y en el de ordenadas el tiempo de ejecución, 
-la Notación asintótica sirve para analizar dicha eficiencia en función de las funciones resultantes teniendo en cuenta una serie de criterios:
+Si representamos la eficiencia de un algoritmo por medio de una función donde en el eje de accisas se indica el número de datos de entrada y en el de ordenadas el tiempo de ejecución, la Notación asintótica sirve para analizar dicha eficiencia en función de las funciones resultantes teniendo en cuenta una serie de criterios:
   
   •	Asumimos que las entradas son muy grandes
   
@@ -21,7 +20,7 @@ Hay diferentes tipos de notación en función del caso qque se utilice de compar
 
 - Notación O (Omicrón, cota superior): O(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ f (n) ≤ c · g(n), ∀n ≥ n0}, es decir, a partir de n0, c · g(n) siempre supera (o iguala) a f (n)
 
-La jerarquía de complejidad será: O(1) (constante) ⊂ O(log n) (logaritmico) ⊂ O(n) (lineal) ⊂ O(n log n) (Quasilineal): ⊂ O(n²) (cuadrática) ⊂ O(n³) (cúbico) ⊂ O(2ⁿ) (Exponencial)
+La jerarquía de complejidad de menor a mayor será: O(1) (constante) ⊂ O(log n) (logaritmico) ⊂ O(n) (lineal) ⊂ O(n log n) (Quasilineal): ⊂ O(n²) (cuadrática) ⊂ O(n³) (cúbico) ⊂ O(2ⁿ) (Exponencial)
 
 - Notación Ω (Omega, cota inferior): Ω(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ c · g(n) ≤ f (n), ∀n ≥ n0}, es decir, a partir de n0, f (n) siempre supera (o iguala) a c · g(n)
 
@@ -35,6 +34,3 @@ segundo caso, el tiempo de ejcución del programa es independiente del número d
 el caso de complejidad lineal.
 
 El programa se ha realizado con phyton 3.8. Su ejecución se puede realizar a través de la consola de phyton.
-
-
-Respecto de 
