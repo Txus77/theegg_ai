@@ -16,7 +16,7 @@ Si representamos la eficiencia de un algoritmo por medio de una función donde e
   
   •	Las constantes y términos de orden inferior no son relevantes, al ser dominados por un término de orden superior
   
-Hay diferentes tipos de notación en función del caso qque se utilice de comparación:
+Hay diferentes tipos de notación en función del caso que se utilice de comparación:
 
 - Notación O (Omicrón, cota superior): O(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ f (n) ≤ c · g(n), ∀n ≥ n0}, es decir, a partir de n0, c · g(n) siempre supera (o iguala) a f (n)
 
