@@ -24,7 +24,7 @@ Hay diferentes tipos de notación en función del caso que se utilice de compara
 
 - Notación Ω (Omega, cota inferior): Ω(g(n)) = {f (n) : ∃ c > 0 y n0 > 0 / 0 ≤ c · g(n) ≤ f (n), ∀n ≥ n0}, es decir, a partir de n0, f (n) siempre supera (o iguala) a c · g(n)
 
-- Notación Θ (Theta, cota ajusta): Θ(g(n)) = {f (n) : ∃ c1 > 0, c2 > 0 y n0 > 0 / 0 ≤ c1g(n) ≤ f (n) ≤ c2g(n), ∀n ≥ n0}, es decir,a partir de n0, f (n) siempre queda en medio de c1g(n)
+- Notación Θ (Theta, cota ajustada): Θ(g(n)) = {f (n) : ∃ c1 > 0, c2 > 0 y n0 > 0 / 0 ≤ c1g(n) ≤ f (n) ≤ c2g(n), ∀n ≥ n0}, es decir,a partir de n0, f (n) siempre queda en medio de c1g(n)
 y c2g(n)
 
 En el programa que acompaña a esta explicación se puede observar claramente la diferencia de rendimiento que hay de resolver la tarea de una forma o de otra.
