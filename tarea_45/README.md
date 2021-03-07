@@ -17,7 +17,7 @@ de cada algoritmo en notación O Grande.
 
 ## SOLUCIÓN
 
-Los algoritmos utilizados han sido los sguientes:
+Los algoritmos utilizados han sido los siguientes:
 
 Algoritmo de ordenación: 
 
