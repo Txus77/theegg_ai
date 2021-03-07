@@ -65,7 +65,7 @@ Sin embargo, el algoritmo de búsqueda binaria necesita de un arreglo previament
 darse un arreglo desordenado habría que sumar a la eficiencia del algoritmo binario la eficiencia del algoritmo de ordenación que se utilice. La eficiencia de los algoritmos 
 de ordenación oscilan entre O (n log n) y O(n2). Esto quiere decir que para arreglos desordenados es más eficiente la búsqueda lineal.
 
-El programa se ha realizado en phyton 3.8. Para ponerlo en funcionamiento basta con abrir el IDLE de phyton abrir el archivo  y una vez abierto darle a run.
+El programa se ha realizado en phyton 3.8. Para ponerlo en funcionamiento basta con abrir el IDLE de phyton, abrir el archivo  y una vez abierto darle a run.
 
 
 
