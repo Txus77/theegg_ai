@@ -32,7 +32,9 @@ que tienen la mitad de tamaño, en donde se encuentra el elemento buscado. Se re
 
 **Busqueda secuencial**: compara uno a uno todos los elementos con el buscado hasta que se encuentra este en el arreglo 
 
-
+Los algoritmos anteriores son los que se han añadido en el archivo tarea_45.py. Además, se ha incluido un archivo denominado ordenamiento.py en el que se han incluido 3 algoritmos de ordenación (Quicksort, ya incluido, mergesort, y ordenamiento por selección) con un breve analisis de su rendimiento. Si se quiere se pude utilizar este archivo 
+vomo modulo para ordenar la lista incluida en el programa. Para ello una solución simple es incluir el archivo en el mismo directorio que el programa definido en el archivo
+tarea_45, abrir el archivo tarea_45 y modificarlo importando  con la instrucción correspondiente las funciones del modulo.
 
 El programa se ha realizado en phyton 3.8. Para ponerlo en funcionamiento basta con abrir el IDLE de phyton, abrir el archivo  y una vez abierto darle a run.
 
