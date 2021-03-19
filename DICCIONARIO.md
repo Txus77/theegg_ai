@@ -639,3 +639,36 @@ http://webdiis.unizar.es/asignaturas/AB/material/varios/eficiencia.pdf
 
 En computación y matemáticas un **algoritmo de ordenamiento** es un algoritmo que pone elementos de una lista o un vector en una secuencia dada por una relación de orden, es decir, el resultado de salida ha de ser una permutación —o reordenamiento— de la entrada que satisfaga la relación de orden dada.
 
+## Nivel 1 – Tarea 52:  Estructuras de datos
+
+**Estructura de datos**: son una forma de organizar los datos en la computadora, de tal manera que nos permita realizar unas operaciones con ellas de forma muy eficiente.
+
+https://openwebinars.net/blog/que-son-las-estructuras-de-datos-y-por-que-son-tan-utiles/
+
+**Array**: Son una estructura que almacena los datos un elemento al lado del otro. En la mayoria de lenguajes de programación esta estructura de datos es de tamaño fijo y no puede guardar datos de diferentes tipos, es decir no puedo guardar valores numéricos y booleanos al mismo tiempo, aunque claramente hay excepciones, por ejemplo: Javascript
+
+https://ed.team/blog/estructuras-de-datos
+
+**Lista enlazada**: Secuencia ordenada de nodos donde cada nodo almacena: Un dato (información) y una referencia al siguiente nodo. Los nodos no tienen por qué estar contiguos en memoria
+
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-16/una-clase-sencilla-de-vagones
+
+**Grafo**: es un dibujo  de vértices o nodos que se conectan con aristas (puntos y caminos) y como se relacionan entre ellos.
+
+https://ccia.ugr.es/~jfv/ed1/tedi/cdrom/docs/grafos.htm
+
+**Colas**: es una estructura de datos, caracterizada por ser una secuencia de elementos en la que la operación de inserción push se realiza por un extremo y la operación de extracción pop por el otro. También se le llama estructura FIFO (del inglés First In First Out), debido a que el primer elemento en entrar será también el primero en salir. Este tipo de estructura de datos abstracta se implementa en lenguajes orientados a objetos mediante clases, en forma de listas enlazadas.
+La particularidad de una estructura de datos de cola es el hecho de que sólo podemos acceder al primer y al último elemento de la estructura
+
+https://www.ecured.cu/Cola_(Estructura_de_datos)
+
+**Pila**: Una pila es una estructura de datos dinámica formada por un grupo ordenado de elementos homogéneos (todos del mismo tipo) en la que los elementos sólo pueden ser añadidos o eliminados por un extremo llamado cabecera o cima (top) de la pila.
+De esta forma, los elementos se extraen en orden inverso al seguido en el proceso de inserción. Por ello, una pila es considerada una estructura de datos LIFO (Last In First Out), esto es, que el último elemento que entra es el primero que sale.
+
+http://agrega.juntadeandalucia.es/repositorio/02122016/a5/es-an_2016120212_9131705/32_pilas.html
+
+**árboles**: Estructura no lineal que organiza sus elementos formando jerarquías. Estructura finita formada por un nodo al cual están conectados ninguno, uno o más árboles disjuntos (no comparten elementos).
+
+https://www.oscarblancarteblog.com/2014/08/22/estructura-de-datos-arboles/
+
+https://estructurasite.wordpress.com/arbol/
