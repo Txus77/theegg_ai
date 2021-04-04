@@ -672,3 +672,32 @@ http://agrega.juntadeandalucia.es/repositorio/02122016/a5/es-an_2016120212_91317
 https://www.oscarblancarteblog.com/2014/08/22/estructura-de-datos-arboles/
 
 https://estructurasite.wordpress.com/arbol/
+
+## Nivel 1 – Tarea 53:  Estadística inferencial para novatos
+
+**Estadística inferencial**: estudia cómo sacar conclusiones generales para toda la población a partir del estudio de una muestra, y el grado de fiabilidad o significación de los resultados obtenidos.
+
+**Variable**: Una variable estadística es una característica de una muestra o población de datos que puede adoptar diferentes valores.
+
+**Muestra** Es un subgrupo o subconjunto representativo de la población, extraída seleccionada por algún método de muestreo, la muestra siempre es una parte de la población.
+La predicción en estadística es el anuncio de lo que se espera que puede suceder. Es decir, explicándolo en términos estadísticos, la predicción es el escenario futuro que se prevé para una variable, ya sea cualitativa o cuantitativa.
+
+Una **estimación** estadística es un proceso mediante el que establecemos qué valor debe tener un parámetro según deducciones que realizamos a partir de estadísticos. En otras palabras, estimar es establecer conclusiones sobre características poblacionales a partir de resultados muestrales.
+
+**Hipótesis** es un enunciado no verificado, que se intenta confirmar o refutar.
+
+**Varianza** es una medida de dispersión que se utiliza para representar la variabilidad de un conjunto de datos respecto de la media aritmética de los mismo. Así, se calcula como la suma de los residuos elevados al cuadrado y divididos entre el total de observaciones.
+
+La **correlación** trata de establecer la relación o dependencia que existe entre las dos variables que intervienen en una distribución bidimensional.
+
+https://www.superprof.es/apuntes/escolar/matematicas/estadistica/disbidimension/correlacion.html
+
+El **valor p** es un valor de probabilidad, por lo que oscila entre 0 y 1. El valor p nos muestra la probabilidad de haber obtenido el resultado que hemos obtenido suponiendo que la hipótesis nula H0 es cierta. Se suele decir que valores altos de p no permiten rechazar la H0, mientras que valores bajos de p sí permiten rechazar la H0.
+
+https://es.wikipedia.org/wiki/Valor_p#:~:text=El%20valor%20p%20es%20un,nula%20H0%20es%20cierta.
+
+Probabilidad de haber obtenido el resultado observado más otros más extremos, si la hipótesis nula fuera cierta
+
+La **distribución normal** adapta una variable aleatoria a una función que depende de la media y la desviación típica. Es decir, la función y la variable aleatoria tendrán la misma representación pero con ligeras diferencias.
+
+La distribución normal es una distribución con forma de campana donde las desviaciones estándar sucesivas con respecto a la media establecen valores de referencia para estimar el porcentaje de observaciones de los datos.
