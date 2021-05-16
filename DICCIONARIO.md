@@ -701,3 +701,24 @@ Probabilidad de haber obtenido el resultado observado más otros más extremos, 
 La **distribución normal** adapta una variable aleatoria a una función que depende de la media y la desviación típica. Es decir, la función y la variable aleatoria tendrán la misma representación pero con ligeras diferencias.
 
 La distribución normal es una distribución con forma de campana donde las desviaciones estándar sucesivas con respecto a la media establecen valores de referencia para estimar el porcentaje de observaciones de los datos.
+
+# Nivel 1 – Tarea 32: Caso de uso de Automotive Intelligence Center (AIC)
+
+**Análisis descriptivo**: Es una metodología estadística que proporciona un enfoque por el que se confecciona un resumen de información que dan los datos de una muestra. Es decir, su meta es hacer síntesis de la información para arrojar precisión, sencillez y aclarar y ordenar los datos.
+
+El análisis descriptivo da respuesta a alguna pregunta formulada al inicio del despliegue estadístico para:
+
+•	Recolectar y ordenar la información por medio de gráficas y medios visuales.
+
+•	Extraer las características más representativas de una colección de datos.
+
+•	Describir tendencias.
+
+**Matriz de correlación**: es una tabla de doble entrada que muestra una lista multivariable horizontalmente y la misma lista verticalmente y con el correspondiente coeficiente de correlación llamado r o la relación entre cada pareja en cada celda, expresada con un número que va desde 0 a 1. El modelo mide y muestra la interdependencia en relaciones asociadas o entre cada pareja de variables y todas al mismo tiempo
+
+**Estadística**: es la disciplina encargada de estudiar el comportamiento de entidades e individuos, ya se trate de observar grupos sociales o conjuntos de datos científicos.
+
+**Feature engineering**: Se trata del proceso previo a la creación del modelo de predicción en el que se hace un análisis, limpieza y estructuración de los campos de los datos. Este proceso es uno de los más importantes y más costosos del proceso de predicción. El objetivo es eliminar los campos que no sirven para hacer la predicción y organizarlos adecuadamente para que el modelo no reciba información que no le es útil y que podría provocar predicciones de poca calidad o confianza.
+
+https://cleverdata.io/conceptos-basicos-machine-learning/
+
