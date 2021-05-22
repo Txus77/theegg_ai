@@ -722,3 +722,36 @@ El análisis descriptivo da respuesta a alguna pregunta formulada al inicio del 
 
 https://cleverdata.io/conceptos-basicos-machine-learning/
 
+# Nivel 1 – Tarea 54: Pentesting
+**Pentesting**: consiste en atacar un sistema informático para identificar fallos, vulnerabilidades y demás errores de seguridad existentes, para así poder prevenir los ataques externos.
+
+**Ciberseguridad**: es la práctica de defender las computadoras, los servidores, los dispositivos móviles, los sistemas electrónicos, las redes y los datos de ataques maliciosos.
+
+Conocemos como *ciberseguridad* a la práctica de proteger los dispositivos, sistemas, redes y datos de ataques u otros fines maliciosos. En definitiva, se trata de la seguridad de las tecnologías de la información y es aplicada en contextos muy diferentes, desde las aplicaciones móviles, hasta los propios negocios. De esta forma, hablamos de seguridad de red, de la información, operativa y de la continuidad del negocio, entre otras.
+
+**“Malware”**: se refiere al software malicioso. Ya que es una de las ciberamenazas más comunes, el malware es software que un cibercriminal o un hacker ha creado para interrumpir o dañar el equipo de un usuario legítimo. Con frecuencia propagado a través de un archivo adjunto de correo electrónico no solicitado o de una descarga de apariencia legítima, el malware puede ser utilizado por los ciberdelincuentes para ganar dinero o para realizar ciberataques con fines políticos.
+
+https://latam.kaspersky.com/resource-center/definitions/what-is-cyber-security
+
+**Troyano**: es un tipo de malware que a menudo se disfraza de software legítimo. Los cibercriminales y hackers pueden utilizar troyanos para tratar de acceder a los sistemas de los usuarios. Generalmente, los usuarios son engañados por alguna forma de ingeniería social para que carguen y ejecuten troyanos en sus sistemas. Una vez activados, los troyanos permiten a los cibercriminales espiarte, robar tu información confidencial y obtener acceso de puerta trasera a tu sistema. Estas acciones pueden incluir:
+
+•	Eliminar datos
+
+•	Bloquear datos
+
+•	Modificar datos
+
+•	Copiar datos
+
+•	Interrumpir el funcionamiento de computadoras o redes de computadoras
+
+A diferencia de virus y gusanos, los troyanos no son capaces de autorreplicarse.
+
+https://latam.kaspersky.com/resource-center/threats/trojans
+
+**Ransomware**: malware que bloquea los archivos y datos de un usuario, con la amenaza de borrarlos, a menos que se pague un rescate.
+
+**Spyware**: un programa que registra en secreto lo que hace un usuario para que los cibercriminales puedan hacer uso de esta información. Por ejemplo, el spyware podría capturar los detalles de las tarjetas de crédito.
+
+El **phishing** es cuando los cibercriminales atacan a sus víctimas con correos electrónicos que parecen ser de una empresa legítima que solicita información confidencial. Los ataques de phishing se utilizan a menudo para inducir a que las personas entreguen sus datos de tarjetas de crédito y otra información personal.
+El estafador, conocido como phisher, se vale de técnicas de ingeniería social, haciéndose pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, por lo general un correo electrónico, o algún sistema de mensajería instantánea, redes sociales SMS/MMS, a raíz de un malware o incluso utilizando también llamadas telefónicas.
