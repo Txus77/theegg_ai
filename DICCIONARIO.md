@@ -755,3 +755,64 @@ https://latam.kaspersky.com/resource-center/threats/trojans
 
 El **phishing** es cuando los cibercriminales atacan a sus víctimas con correos electrónicos que parecen ser de una empresa legítima que solicita información confidencial. Los ataques de phishing se utilizan a menudo para inducir a que las personas entreguen sus datos de tarjetas de crédito y otra información personal.
 El estafador, conocido como phisher, se vale de técnicas de ingeniería social, haciéndose pasar por una persona o empresa de confianza en una aparente comunicación oficial electrónica, por lo general un correo electrónico, o algún sistema de mensajería instantánea, redes sociales SMS/MMS, a raíz de un malware o incluso utilizando también llamadas telefónicas.
+
+# Nivel 1 – Tarea 51: Los sistemas operativos
+**Sistema Operativo**:  es el software principal o conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software, ejecutándose en modo privilegiado respecto de los restantes.
+
+En informática, los sistemas operativos son el núcleo del ordenador que se asegura de:
+
+•	La comunicación entre los programas que solicitan recursos y el hardware.
+
+•	Gestión de los distintos programas informáticos (tareas) de una máquina.
+
+•	Gestión del hardware (memoria, procesador, periférico, forma de almacenamiento, etc.)
+
+**Núcleo o kernel** (de la raíz germánica Kern, núcleo, hueso) es un software que constituye una parte fundamental del sistema operativo, y se define como la parte que se ejecuta en modo privilegiado (conocido también como modo núcleo). Es el principal responsable de facilitar a los distintos programas acceso seguro al hardware de la computadora o en forma básica, es el encargado de gestionar recursos, a través de servicios de llamada al sistema. Como hay muchos programas y el acceso al hardware es limitado, también se encarga de decidir qué programa podrá usar un dispositivo de hardware y durante cuánto tiempo, lo que se conoce como multiprogramación. Acceder al hardware directamente puede ser realmente complejo, por lo que los núcleos suelen implementar una serie de abstracciones del hardware. Esto permite esconder la complejidad, y proporcionar una interfaz limpia y uniforme al hardware subyacente, lo que facilita su uso al programador.
+
+El **firmware** o soporte lógico inalterable es un programa informático que establece la lógica de más bajo nivel que controla los circuitos electrónicos de un dispositivo de cualquier tipo. Está fuertemente integrado con la electrónica del dispositivo, es el software que tiene directa interacción con el hardware, siendo así el encargado de controlarlo para ejecutar correctamente las instrucciones externas. De hecho el firmware es uno de los tres principales pilares del diseño electrónico.
+En resumen, un firmware es un software que maneja físicamente al hardware.
+El programa BIOS de una computadora es un firmware cuyo propósito es activar una máquina desde su encendido y preparar el entorno para cargar un sistema operativo en la memoria RAM y disco duro.
+
+https://hardzone.es/reportajes/que-es/firmware-sirve-actualizarlo/
+
+La memoria **ROM** se llama así por las siglas en inglés Read Only Memory, o memoria de solo lectura. La mayor diferencia entre la memoria RAM y la ROM es que la ROM no es volátil, es decir, la información almacenada se retiene aunque apaguemos el PC. Este tipo de memoria tiene una capacidad muy inferior a la RAM y además es mucho más lenta.
+Los datos almacenados en la ROM no se pueden modificar, o al menos no de manera rápida o fácil. Se utiliza principalmente para contener el firmware (programa que está estrechamente ligado a hardware específico, y es poco probable que requiera actualizaciones frecuentes) u otro contenido vital para el funcionamiento del dispositivo, como los programas que ponen en marcha el ordenador y realizan los diagnósticos
+
+https://hardzone.es/tutoriales/componentes/memoria-ram-rom-diferencias/
+
+Un **controlador** de dispositivo o manejador de dispositivo (en inglés: device driver, o simplemente driver)  es un programa informático que permite al sistema operativo interactuar con un periférico, haciendo una abstracción del hardware y proporcionando una interfaz (posiblemente estandarizada) para utilizar el dispositivo.
+
+https://www.tecnologia-informatica.com/que-son-drivers-controladores/
+
+**Linux** es un núcleo mayormente libre semejante al núcleo de Unix.4Linux es uno de los principales ejemplos de software libre y de código abierto. Linux está licenciado bajo la GPL v2 salvo el hecho que tiene blobs binarios no-libres y la mayor parte del software incluido en el paquete que se distribuye en su sitio web es software libre. Está desarrollado por colaboradores de todo el mundo. El desarrollo del día a día tiene lugar en la Linux Kernel Mailing List Archive.
+
+Las **distribuciones GNU/Linux** usan Linux como núcleo junto con el entorno de tiempo de ejecución del Proyecto GNU y una serie de programas y herramientas del mismo que garantizan un sistema funcional mínimo. La mayoría de distribuciones GNU/Linux incluye software adicional como entornos gráficos o navegadores web así como los programas necesarios para permitirse instalar a sí mismas. Los programas de instalación son aportados por el desarrollador de la distribución. Se les conoce como gestores de paquetes. Los creadores de una distribución también se pueden encargar de añadir configuraciones iniciales de los distintos programas incluidos en la distribución.
+
+https://es.wikipedia.org/wiki/N%C3%BAcleo_Linux
+
+https://www.adslzone.net/reportajes/software/que-es-linux/
+
+**CPU** son las siglas de Central Processing Unit, lo que traducido significa Unidad Central de Procesamiento. Se trata de un componente tremendamente complejo, no obstante es el cerebro de cada ordenador o dispositivo.
+
+Se encarga de procesar todas las instrucciones del dispositivo, leyendo las órdenes y requisitos del sistema operativo, así como las instrucciones de cada uno de los componentes y las aplicaciones.
+
+La CPU es la que se encarga de que todo funcione correctamente, y de interpretar todo lo que quiere hacer el sistema operativo o los componentes, estableciendo las conexiones y realizando todos los cálculos precisos para que funcione.
+
+https://www.xataka.com/basics/cpu-que-como-sirve
+
+https://concepto.de/cpu/
+
+**GPU** es el acrónimo de Graphics Processing Unit y representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC. Aparte del corazón, también es su cerebro, ya que es la encargada de realizar todos los cálculos complejos 
+
+https://hardzone.es/reportajes/que-es/gpu-caracteristicas-especificaciones/
+
+Se consideran **periféricos** a las unidades o dispositivos de hardware a través de los cuales el ordenador se comunica con el exterior, y también a los sistemas que almacenan o archivan la información, sirviendo de memoria auxiliar de la memoria principal.
+
+Se define como **Terminal**, aunque también es conocido bajo el nombre de Consola, a todo dispositivo electrónico que forma parte del Hardware de un ordenador, y que tiene la funcionalidad básica de ingresar o mostrar los datos que se encuentran dentro de una computadora o en un determinado sistema de computación. Es por ello que podemos definir que la finalidad básica es la de transformar estos datos en información que puede ser fácilmente percibida por los sentidos, luego de un debido procesamiento.
+
+https://sistemas.com/terminal.php
+
+Se emplea el vocablo **interfaz** para referirse a la dinámica física y lógica de interconexión entre dos aparatos o sistemas independientes, o bien entre un sistema informático y su usuario humano.
+
+https://concepto.de/interfaz/#ixzz6wvOc2XLM
+
