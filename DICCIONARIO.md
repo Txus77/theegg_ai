@@ -816,3 +816,12 @@ Se emplea el vocablo **interfaz** para referirse a la dinámica física y lógic
 
 https://concepto.de/interfaz/#ixzz6wvOc2XLM
 
+# Nivel 1 – Tarea 50: Inteligencia Artificial Ética
+
+**Ética**: Se llama ética o filosofía moral a una de las ramas más antiguas de la filosofía, dedicada al estudio de la conducta humana, expresada en conceptos como lo correcto y lo incorrecto, lo bueno y lo malo, la virtud, la felicidad y el deber, así como en los sistemas de valores que dichas categorías sostienen. A pesar de lo que su nombre puede sugerir, no debe confundirse la ética con la moral.
+
+**Inteligencia Artificial**: La inteligencia artificial es la habilidad de una máquina de presentar las mismas capacidades que los seres humanos, como el razonamiento, el aprendizaje, la creatividad y la capacidad de planear.
+
+**Datos**: Es una representación simbólica (numérica, alfabética, algorítmica, espacial, etc.) de un atributo o variable cuantitativa o cualitativa. Los datos describen hechos empíricos, sucesos y entidades.
+
+
