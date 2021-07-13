@@ -824,4 +824,27 @@ https://concepto.de/interfaz/#ixzz6wvOc2XLM
 
 **Datos**: Es una representación simbólica (numérica, alfabética, algorítmica, espacial, etc.) de un atributo o variable cuantitativa o cualitativa. Los datos describen hechos empíricos, sucesos y entidades.
 
+# Nivel 1 – Tarea 55: Línea de comandos en Linux... o Windows
+
+**Línea-de-comandos**: Es una aplicación basada en texto para ver, manejar y manipular archivos en tu ordenador.
+Es un programa que te permite comunicarte con tu sistema operativo mediante una interfaz textual, que utiliza un lenguaje de alto nivel, cercano al lenguaje natural.
+
+Una **consola** de comandos es un programa que recibe todo aquello que se escribe en la terminal y se encarga de convertirlo en instrucciones que el sistema operativo pueda entender y ejecutar. Para que la orden que se envía pueda llevarse a cabo de forma correcta, es necesario seguir la sintaxis del intérprete de comandos que estemos utilizando. 
+
+# Nivel 1 – Tarea 62: Convertir una computadora tonta en algo más inteligente: bash scripting 
+
+**Bash** es un procesador de comandos que generalmente se ejecuta en una ventana de texto donde el usuario escribe comandos que causan acciones. Bash también puede leer y ejecutar comandos desde un archivo, llamado script de shell.
+El termino **Shell** se emplea para referirse a aquellos programas que proveen una interfaz de usuario para acceder a los servicios del sistema operativo. Estos pueden ser gráficos o de texto simple, dependiendo del tipo de interfaz que empleen. Los shells están diseñados para facilitar la forma en que se invocan o ejecutan los distintos programas disponibles en el computador.
+
+Existen 2 tipos de Shell y estos son:
+-	Shells de texto común como bash, emacs, símbolo del sistema de Windows, entre otros.
+-	Shells gráfico común como GNome, KDE, XFCE, LXDE, Unity, MacOS Desktop Environment, Escritorio Windows, entre otros.
+
+**Script** se usa este término para referirse al código fuente escrito en algún tipo de lenguaje interpretado
+
+**Intérprete** o interpretador es un programa informático capaz de analizar y ejecutar otros programas, escritos en un lenguaje de alto nivel. Los intérpretes se diferencian de los compiladores en que mientras estos traducen un programa desde su descripción en un lenguaje de programación al código de máquina del sistema, los primeros (los intérpretes) sólo realizan la traducción a medida que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el resultado de dicha traducción. Usando un intérprete, un solo archivo fuente puede producir resultados iguales incluso en sistemas sumamente diferentes (ej. una PC y un PlayStation 3). Usando un compilador, un solo archivo fuente puede producir resultados iguales solo si es compilado a distintos ejecutables específicos a cada sistema.
+
+Un **compilador** es un programa informático que traduce un programa escrito en un lenguaje de programación a otro lenguaje de programación. Usualmente el segundo lenguaje es lenguaje de máquina, pero también puede ser un código intermedio (bytecode), o simplemente texto. Este proceso de traducción se conoce como compilación
+
+https://www.ictea.com/cs/index.php?rp=/knowledgebase/8817/iQue-es-un-programa-compilador.html
 
