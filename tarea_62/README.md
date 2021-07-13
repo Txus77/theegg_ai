@@ -5,6 +5,8 @@ Para la realización de esta tarea he hecho los 3 programas siguientes:
 -	Un  compresor y descompresor de archivos
 -	Una agenda de teléfonos y email
 
+Para la ejecución de los programas se tienen que descargar los archivos en un sistema operativo LINUX y ejecutar por terminal.
+
 ## Buscador de archivos:
 
 Se denomina **buscador.sh**. Permite encontrar un archivo en el sistema operativo en caso de existir. Si no existe el programa lo indicará. También nos dice si el archivo es un directorio o un archivo. Además, si es un archivo nos indicará si es ejecutable o no. Una vez encontrado nos da la ruta absoluta del archivo o directorio buscado.
