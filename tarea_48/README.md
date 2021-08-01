@@ -26,11 +26,11 @@ El funcionamiento de algoritmo es el siguiente:
 
 -	Las codificaciones constan de 3 caracteres:
 
-  o	El primer carácter es un número que indica la posición de la cadena repetida respecto a la posición del cursor
+     o	El primer carácter es un número que indica la posición de la cadena repetida respecto a la posición del cursor
   
-  o	El segundo carácter es un número que indica el número de caracteres coincidentes entre la cadena que comienza donde se ubica el cursor y la cadena que se ubica en la cadena recorrida.
+     o	El segundo carácter es un número que indica el número de caracteres coincidentes entre la cadena que comienza donde se ubica el cursor y la cadena que se ubica en la         cadena recorrida.
   
-  o	El tercer carácter es el primer carácter no repetido una vez se comparan las 2 cadenas
+     o	El tercer carácter es el primer carácter no repetido una vez se comparan las 2 cadenas
   
 Por ejemplo, en la cadena: 
 
