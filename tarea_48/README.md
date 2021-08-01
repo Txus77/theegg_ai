@@ -41,8 +41,8 @@ la salida será:
 (0,0,a),(0,0,b),(0,0,r),(3,4,<eoc>) (<eoc> indica final de frase cuando no hay un carácter)
   
 En el programa creado se puede comprobar que para cadenas cortas con pocos o ningún carácter repetido el algoritmo no es eficiente dando cantidades 
-de memoria consumidas más grandes en la salda de la compresión que en la cadena original.Además, es importante la estructura de la salida de la 
-compresión ya que si la salida es en forma de contenedores (listas, tuplas, diccionarios, etc.) hay que tener en cuenta que  aparte de la memoria 
+de memoria consumidas más grandes en la salida de la comprimida que en la cadena original. Además, es importante la estructura de la salida de la 
+cadena comprimida ya que si la salida es en forma de contenedores (listas, tuplas, diccionarios, etc.) hay que tener en cuenta que,  aparte de la memoria 
 que ocupa el objeto en sí, es decir, la lista, tupla o diccionario empleado, habría que sumarle la memoria consumida por su contenido. 
 
 El método que se ha utilizado para obtener el tamaño de memoria consumido, tanto por la cadena original como por la salida comprimida, ha sido getsizeof (). Este método 
