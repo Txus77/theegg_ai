@@ -17,7 +17,7 @@ output deben coincidir:
 descomprimido debería tener el mismo peso que el original.
 
 ## Solución
-La tarea se ha realizado en phyton 3.7 siguiendo el algoritmo LZ77.
+La tarea se ha realizado en phyton 3.8 siguiendo el algoritmo LZ77.
 
 Básicamente, este algoritmo trata de reducir las repeticiones de cadenas de forma que si una cadena se repite  
 se codifique de forma que en la salida comprimida esa cadena quede representada por el código. Este algoritmo 
@@ -65,3 +65,4 @@ que agrupa la ubicación y el numero de caracteres de la cadena repetida. Una ve
 en cuenta que este siempre será mayor o igual que el de la longitud de cadena repetida por lo que si la longitud de ambos números es impar, o sea 3 (ya que como 
 mucho funciona bien para 100 caracteres) el componente con 2 caracteres será la ubicación y si son 4 caracteres serán 2 caracteres para cada elemento.
 
+Para ejecutar el programa se puede realizar a través del IDLE de phyton. Se descarga el archivo que se quiera ejecutar (tarea_48.py o tarea_48_bis.py) se abre a través del IDLE y se ejecuta. se puede cambiar el contenido de la variable cadena en el codigo por la cadena que se quiera. El programa contenido en el archivo tarea_48_bis.py sólo funciona correctamente con cadenas compuestas por letras y con un número de caracteres inferior a 100.
