@@ -848,3 +848,20 @@ Un **compilador** es un programa informático que traduce un programa escrito en
 
 https://www.ictea.com/cs/index.php?rp=/knowledgebase/8817/iQue-es-un-programa-compilador.html
 
+# Nivel 1 – Tarea 48: Algoritmos de compresión-descompresión
+
+**Algoritmos de compresión**: procedimiento de codificación de la información que tiene por objetivo reducir el espacio que ocupa ésta. Los algoritmos de compresión pueden ser:
+
+-	Sin perdida: la salida de la información una vez descomprimida es exactamente igual a la entrada antes de la compresión
+
+-	Con perdida: la salida de la descompresión no es igual a la entrada habiéndose perdido información. Esto es porque, en lugar de guardar una copia exacta, solo se guarda una aproximación. Esta aproximación se aprovecha de las limitaciones de la percepción humana para esconder la distorsión introducida.
+
+**ZIP**: formato de compresión sin pérdida. Comprime cada uno de los archivos que contiene de forma separada, lo cual permite recuperar cada uno de los archivos almacenados sin tener que leer el resto del archivo ZIP que los contiene, lo que permite un mejor rendimiento. Cada archivo puede ser almacenado sin compresión o con una amplia variedad de algoritmos de compresión, aunque el más utilizado y práctico es el algoritmo original de Phil Katz. El problema, es que el resultado de agrupar un número grande de pequeños archivos es siempre mayor que agrupar todos los archivos y comprimirlos como si fuera uno sólo. A cambio, esto permite extraer cada archivo de forma independiente sin tener que procesar el archivo desde el principio.
+
+**Algoritmo original de Phil Katz**: algoritmo deflación, en inglés denominado DEFLATE, es un algoritmo de compresión de datos sin pérdidas que usa una combinación del algoritmo LZ77 y la codificación Huffman.
+
+**RAR**: (cuyas siglas significan Roshal ARchive en inglés) es un formato de archivo privado, con un algoritmo de compresión sin pérdida utilizado para la compresión de datos y archivado, desarrollado por el ingeniero de software ruso Eugene Roshal. El RAR es más lento que el ZIP, pero posee una mayor tasa de compresión. Otra característica de RAR es que posee una mejor redundancia de datos que ZIP. RAR utiliza un algoritmo de compresión basado en el LZSS que, a su vez, se basaba en el LZ77.
+
+Además, este formato permite lo que se conoce como compresión sólida que permite comprimir varios ficheros juntos, de forma que un mismo diccionario se aplica a toda la información, con lo que el nivel de compresión es mayor.
+
+**Descompresión**: proceso por el que se descodifica la información de un archivo que se ha codificado previamente para reducir su tamaño. Es el proceso inverso de la decodificación para la obtención del archivo original.
