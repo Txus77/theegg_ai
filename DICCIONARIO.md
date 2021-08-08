@@ -865,3 +865,21 @@ https://www.ictea.com/cs/index.php?rp=/knowledgebase/8817/iQue-es-un-programa-co
 Además, este formato permite lo que se conoce como compresión sólida que permite comprimir varios ficheros juntos, de forma que un mismo diccionario se aplica a toda la información, con lo que el nivel de compresión es mayor.
 
 **Descompresión**: proceso por el que se descodifica la información de un archivo que se ha codificado previamente para reducir su tamaño. Es el proceso inverso de la decodificación para la obtención del archivo original.
+
+# Nivel 1 – Tarea 49: Aprender a pensar como un programador: Introducción a la POO
+
+**Clase**: En la POO clase es la entidad que define los atributos y comportamientos comunes de todos los elementos pertenecientes a ella. 
+
+**Objeto**: En POO es la representación de cualquier cosa de la realidad ya sea real o abstracta. Los objetos tienen un estado (atributos) y un comportamiento(métodos)
+
+**Método**: son funciones que están dentro de la clase y definen el comportamiento (acciones) de los objetos pertenecientes a ésta.
+
+**Atributo**: son las características de un objeto y definen el estado de este
+
+**Instancia**significa crear un objeto a partir de una clase. Los atributos y métodos son elementos que almacenan datos (diferenciando los objetos dentro de la misma clase) utilizando variables de instancia.
+
+**Constructor**: Método que define el estado inicial de los objetos pertenecientes a esa clase
+
+**Encapsulamiento** Es el proceso que consiste en organizar los datos y operaciones (métodos) de una clase que constituyen su estructura y su comportamiento con el fin de evitar el acceso a datos por cualquier otro medio que no sea el especificado y por esto el encapsulamiento de datos asegura la integridad de los datos que contiene el objeto.
+
+**Herencia**: proceso por el que una clase puede heredar propiedades (atributos) y comportamientos (métodos) de una clase padre
