@@ -43,7 +43,7 @@ Para ejecutarlo abrir cada ejercicio en IDLE de phyton, para ello seguir los pas
  - clickar en Open y buscar el archivo que se quiera ejecutar donde lo hayas descargado
  - Una vez abierto el archivo clickar la pestaña Run y dentro de ésta Run module
 
-En cada ejercicio se han  introducido comentarios que explican los pasos dados por lo que se pasa a explicar las soluciones de forma conceptual:
+En cada ejercicio también se han  introducido comentarios que explican los pasos dados:
 
 ### ejercicio 1
 
